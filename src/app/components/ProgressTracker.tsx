@@ -1,7 +1,7 @@
 'use client'
 // pages/learn.tsx
 import React, { useMemo } from 'react';
-import { Card, Table } from 'antd';
+import { Table } from 'antd';
 import type { ColumnsType } from 'antd/es/table';
 import { WordFormData } from '@/app/interface';
 
