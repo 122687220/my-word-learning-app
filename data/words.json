@@ -1,0 +1,2026 @@
+[
+  {
+    "word": "abnormal",
+    "pronunciation": "[æbˈnɔːml]",
+    "part_of_speech": "adj.",
+    "definition": "不标准的，不规范的；不正常的，反常的；变态的",
+    "example_sentence": "The machinist pressed his ear to the instrument in order to listen and tell where the abnormal sound came from.",
+    "root": "norm",
+    "key_collocations": [
+      {
+        "collocation": "an abnormal phenomenon",
+        "definition": "异常现象"
+      },
+      {
+        "collocation": "abnormal behavior",
+        "definition": "异常行为"
+      },
+      {
+        "collocation": "abnormal psychology",
+        "definition": "异常心理学"
+      }
+    ]
+  },
+  {
+    "word": "norm",
+    "pronunciation": "[nɔːm]",
+    "part_of_speech": "n.",
+    "definition": "标准，规范",
+    "root": "norm"
+  },
+  {
+    "word": "normal",
+    "pronunciation": "[ˈnɔːml]",
+    "part_of_speech": "adj.",
+    "definition": "正常的，标准的；（人的精神，身体）正常发育的",
+    "root": "norm"
+  },
+  {
+    "word": "normally",
+    "pronunciation": "[ˈnɔːməli]",
+    "part_of_speech": "adv.",
+    "definition": "通常，正常地",
+    "root": "norm"
+  },
+  {
+    "word": "enormous",
+    "pronunciation": "[ɪˈnɔːməs]",
+    "part_of_speech": "adj.",
+    "definition": "巨大的，庞大的",
+    "example_sentence": "",
+    "root": "norm",
+    "key_collocations": [
+      {
+        "collocation": "an enormous amount of money",
+        "definition": "巨额金钱"
+      },
+      {
+        "collocation": "an enormous house",
+        "definition": "巨大的房子"
+      },
+      {
+        "collocation": "an enormous appetite",
+        "definition": "巨大的胃口"
+      },
+      {
+        "collocation": "enormous happiness",
+        "definition": "巨大的幸福"
+      }
+    ]
+  },
+  {
+    "word": "enormously",
+    "pronunciation": "[i'no:masli]",
+    "part_of_speech": "adv.",
+    "definition": "巨大地，庞大地（超纲词汇）",
+    "example_sentence": "",
+    "root": "norm",
+    "key_collocations": []
+  },
+  {
+    "word": "appreciate",
+    "pronunciation": "[ə'pri:ʃieɪt]",
+    "part_of_speech": "vt./vi.",
+    "definition": "欣赏，赏识；感谢，感激；体会，领会；察知（土地、货币等）增值",
+    "example_sentence": ["appreciate poetry", "appreciate the danger ahead"],
+    "root": "",
+    "key_collocations": []
+  },
+  {
+    "word": "appreciation",
+    "pronunciation": "[əˌpri:ʃiˈeɪʃn]",
+    "part_of_speech": "n.",
+    "definition": "欣赏，鉴赏；赏识；感谢，谢意；正确评价；涨价；增值",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": []
+  },
+  {
+    "word": "appreciative",
+    "pronunciation": "[əˈpri:ʃiətɪv]",
+    "part_of_speech": "adj.",
+    "definition": "有欣赏力的；能确认价值的；表示赞赏的，感谢的",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": []
+  },
+  {
+    "word": "appreciable",
+    "pronunciation": "[əˈpri:ʃiəbl]",
+    "part_of_speech": "adj.",
+    "definition": "可估价的；可评估的，可估计的；可感知的，可察觉的",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": []
+  },
+  {
+    "word": "precious",
+    "pronunciation": "[ˈpreʃəs]",
+    "part_of_speech": "adj.",
+    "definition": "贵重的，宝贵的，珍贵的",
+    "example_sentence": "",
+    "root": "preci-",
+    "key_collocations": [
+      {
+        "collocation": "precious moments",
+        "definition": ""
+      },
+      {
+        "collocation": "precious treasure",
+        "definition": ""
+      }
+    ]
+  },
+  {
+    "word": "depreciate",
+    "pronunciation": "[dɪˈpri:ʃieɪt]",
+    "part_of_speech": "v.",
+    "definition": "降低（…的）价值（或价格）；（使）贬值；轻视，贬低",
+    "example_sentence": "",
+    "root": "preci-",
+    "key_collocations": []
+  },
+  {
+    "word": "depreciation",
+    "pronunciation": "[di, priːˈʃiːəʃən]",
+    "part_of_speech": "noun",
+    "definition": "降价，跌价；折旧，贬值；轻视，贬低",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": []
+  },
+  {
+    "word": "interpret",
+    "pronunciation": "[ɪnˈtɜːprɪt]",
+    "part_of_speech": "verb",
+    "definition": "解释，说明；阐明，诠释；口译",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": [
+      {
+        "collocation": "interpret a difficult poem",
+        "definition": "解释一首难懂的诗"
+      },
+      {
+        "collocation": "interpret life",
+        "definition": "解释生活"
+      },
+      {
+        "collocation": "interpret for sb.",
+        "definition": "为某人翻译"
+      }
+    ]
+  },
+  {
+    "word": "interpretation",
+    "pronunciation": "[ɪn, tɜːprɪˈteɪʃən]",
+    "part_of_speech": "noun",
+    "definition": "解释；口译",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": []
+  },
+  {
+    "word": "interpretative",
+    "pronunciation": "[ɪnˈtɜːprɪtətɪv]",
+    "part_of_speech": "adjective",
+    "definition": "解释的，说明的",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": []
+  },
+  {
+    "word": "interpreter",
+    "pronunciation": "[ɪnˈtɜːprɪtə]",
+    "part_of_speech": "noun",
+    "definition": "译者，口译员；阐述人",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": []
+  },
+  {
+    "word": "praise",
+    "pronunciation": "[preɪz]",
+    "part_of_speech": "noun/verb",
+    "definition": "赞美，称赞；表扬",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": []
+  },
+  {
+    "word": "pray",
+    "pronunciation": "[preɪ]",
+    "part_of_speech": "verb",
+    "definition": "祈祷，祈求；恳求，请求",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": []
+  },
+  {
+    "word": "pious",
+    "pronunciation": "[ˈpaɪəs]",
+    "part_of_speech": "adjective",
+    "definition": "虔诚的，笃信的；敬神的，虔奉宗教的",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": []
+  },
+  {
+    "word": "absorb",
+    "pronunciation": "[əbˈsɔːb]",
+    "part_of_speech": "verb",
+    "definition": "吸收；吸引（注意等），使全神贯注",
+    "example_sentence": "",
+    "root": "sorb",
+    "key_collocations": [
+      {
+        "collocation": "be absorbed by",
+        "definition": "被...吸收"
+      },
+      {
+        "collocation": "be absorbed in",
+        "definition": "全神贯注于"
+      },
+      {
+        "collocation": "absorb sb.'s attention",
+        "definition": "吸引某人的注意力"
+      }
+    ]
+  },
+  {
+    "word": "absorption",
+    "pronunciation": "[əbˈsɔːpʃən]",
+    "part_of_speech": "noun",
+    "definition": "吸收；全神贯注，专心致志",
+    "example_sentence": "",
+    "root": "sorb",
+    "key_collocations": []
+  },
+  {
+    "word": "absorbed",
+    "pronunciation": "[əbˈsɔːbd]",
+    "part_of_speech": "adjective",
+    "definition": "被吸收的；专心致志的，全神贯注的",
+    "example_sentence": "",
+    "root": "sorb",
+    "key_collocations": []
+  },
+  {
+    "word": "absorptive",
+    "pronunciation": "[əbˈsɔːptɪv]",
+    "part_of_speech": "adjective",
+    "definition": "有吸收力的；吸引性的",
+    "example_sentence": "",
+    "root": "sorb",
+    "key_collocations": []
+  },
+  {
+    "word": "sob",
+    "pronunciation": "[sɒb]",
+    "part_of_speech": "verb/noun",
+    "definition": "呜咽，抽泣；呜咽声，抽泣声",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": [
+      {
+        "collocation": "Sob story",
+        "definition": "悲情故事"
+      },
+      {
+        "collocation": "sob out",
+        "definition": "哭诉"
+      }
+    ]
+  },
+  {
+    "word": "soup",
+    "pronunciation": "[suːp]",
+    "part_of_speech": "noun",
+    "definition": "汤",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": []
+  },
+  {
+    "word": "soap",
+    "pronunciation": "[səʊp]",
+    "part_of_speech": "noun",
+    "definition": "肥皂",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": [
+      {
+        "collocation": "Soap Factory",
+        "definition": "肥皂厂"
+      },
+      {
+        "collocation": "Soap Bubbles",
+        "definition": "肥皂泡"
+      }
+    ]
+  },
+  {
+    "word": "approach",
+    "pronunciation": "[əˈprəʊtʃ]",
+    "part_of_speech": "verb/noun",
+    "definition": "接近，靠近；途径；方法，步骤",
+    "example_sentence": "The first and more important is the consumer's growing preference for eating out; the consumption of food and drink in places other than homes has risen from about 32 percent of total consumption in 1995 to 35 percent in 2000 and is expected to approach 38 percent by 2005.",
+    "root": "proach",
+    "key_collocations": [
+      {
+        "collocation": "approach perfection",
+        "definition": "接近完美"
+      },
+      {
+        "collocation": "an approach to...",
+        "definition": "...的方法"
+      }
+    ]
+  },
+  {
+    "word": "approachable",
+    "pronunciation": "[əˈprəʊtʃəbl]",
+    "part_of_speech": "adjective",
+    "definition": "可接近的；易亲近的；易交谈的",
+    "root": "proach",
+    "key_collocations": []
+  },
+  {
+    "word": "approachability",
+    "pronunciation": "[əˌprəʊtʃəˈbɪləti]",
+    "part_of_speech": "noun",
+    "definition": "可接近性，易接近性",
+    "root": "proach",
+    "key_collocations": []
+  },
+  {
+    "word": "spoil",
+    "pronunciation": "[spɔɪl]",
+    "part_of_speech": "verb",
+    "definition": "宠爱，溺爱；宠坏；损坏；搞错",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": [
+      {
+        "collocation": "spoil for",
+        "definition": "渴望"
+      }
+    ]
+  },
+  {
+    "word": "sip",
+    "pronunciation": "[sɪp]",
+    "part_of_speech": "verb/noun",
+    "definition": "小口地喝；抿，呷，啜饮",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": [
+      {
+        "collocation": "sip tea",
+        "definition": "小口喝茶"
+      },
+      {
+        "collocation": "sip knowledge",
+        "definition": "慢慢吸取知识"
+      },
+      {
+        "collocation": "take a sip",
+        "definition": "喝一小口"
+      }
+    ]
+  },
+  {
+    "word": "approximate",
+    "pronunciation": "[əˈprɒksɪmət]",
+    "part_of_speech": "verb/adjective",
+    "definition": "接近；近似",
+    "example_sentence": "",
+    "root": "proxim",
+    "key_collocations": []
+  },
+  {
+    "word": "approximately",
+    "pronunciation": "[əˈprɒksɪmətli]",
+    "part_of_speech": "adverb",
+    "definition": "大概，近乎",
+    "root": "proxim",
+    "key_collocations": []
+  },
+  {
+    "word": "approximation",
+    "pronunciation": "[əˌprɒksɪˈmeɪʃn]",
+    "part_of_speech": "noun",
+    "definition": "接近；近似，近乎；近似值",
+    "root": "proxim",
+    "key_collocations": []
+  },
+  {
+    "word": "proximity",
+    "pronunciation": "[prɒkˈsɪməti]",
+    "part_of_speech": "noun",
+    "definition": "接近，邻近；亲近",
+    "root": "proxim",
+    "key_collocations": []
+  },
+  {
+    "word": "touch",
+    "pronunciation": "[tʌtʃ]",
+    "part_of_speech": "verb/noun",
+    "definition": "接触，碰触；触摸；触觉，触感；接触，联系",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": [
+      {
+        "collocation": "keep in touch with sb.",
+        "definition": "与某人保持联系"
+      },
+      {
+        "collocation": "out of touch with sb.",
+        "definition": "与某人失去联系"
+      }
+    ]
+  },
+  {
+    "word": "touched",
+    "pronunciation": "[tætʃt]",
+    "part_of_speech": "adj.",
+    "definition": "受感动的, 受触动的",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": []
+  },
+  {
+    "word": "touchstone",
+    "pronunciation": "[ˈtʌtʃstəʊn]",
+    "part_of_speech": "n.",
+    "definition": "试金石; 检验, 标准",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": [
+      {
+        "collocation": "tangle with",
+        "definition": "与...纠缠, 与...纠结"
+      }
+    ]
+  },
+  {
+    "word": "touchy",
+    "pronunciation": "[ˈtʌtʃi]",
+    "part_of_speech": "adj.",
+    "definition": "易怒的; 棘手的",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": []
+  },
+  {
+    "word": "retouch",
+    "pronunciation": "[ˈriːˈtʌtʃ]",
+    "part_of_speech": "v.",
+    "definition": "修改, 润色",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": []
+  },
+  {
+    "word": "untouchable",
+    "pronunciation": "[ʌnˈtʌtʃəbl]",
+    "part_of_speech": "adj.",
+    "definition": "碰不着的; 不可触摸的",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": []
+  },
+  {
+    "word": "match",
+    "pronunciation": "[mætʃ]",
+    "part_of_speech": "n.",
+    "definition": "比赛, 竞赛; 对手, 敌手; (一根)火柴",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": []
+  },
+  {
+    "word": "mate",
+    "pronunciation": "[meɪt]",
+    "part_of_speech": "n.",
+    "definition": "伙伴, 同事; 配偶",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": []
+  },
+  {
+    "word": "intimate",
+    "pronunciation": "[ˈɪntɪmət]",
+    "part_of_speech": "adj.",
+    "definition": "亲密的, 密切的",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": [
+      {
+        "collocation": "an intimate friend",
+        "definition": "亲密的朋友"
+      }
+    ]
+  },
+  {
+    "word": "tact",
+    "pronunciation": "[tækt]",
+    "part_of_speech": "n.",
+    "definition": "触觉; 机敏, 机智; 手法, 老练",
+    "example_sentence": "",
+    "root": "tact-",
+    "key_collocations": []
+  },
+  {
+    "word": "tactile",
+    "pronunciation": "[ˈtæktaɪl]",
+    "part_of_speech": "adj.",
+    "definition": "有触觉的; 能触知的",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": []
+  },
+  {
+    "word": "tactic",
+    "pronunciation": "[ˈtæktɪk]",
+    "part_of_speech": "n.",
+    "definition": "战术; 策略; 手法",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": []
+  },
+  {
+    "word": "intact",
+    "pronunciation": "[ɪnˈtækt]",
+    "part_of_speech": "adj.",
+    "definition": "完整无缺的; 未受损伤的",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": []
+  },
+  {
+    "word": "contact",
+    "pronunciation": "[ˈkɒntækt]",
+    "part_of_speech": "n.",
+    "definition": "接触, 触碰; 联系, 联络",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": [
+      {
+        "collocation": "be in of contact with sb.",
+        "definition": "与某人保持联系"
+      },
+      {
+        "collocation": "be out of contact with sb.",
+        "definition": "与某人失去联系"
+      }
+    ]
+  },
+  {
+    "word": "accelerate",
+    "pronunciation": "[əkˈseləreɪt]",
+    "part_of_speech": "v.",
+    "definition": "加速, 增速; 促进, 加快",
+    "example_sentence": "Supercomputers will dramatically accelerate progress in all areas of life.",
+    "root": "celer-",
+    "key_collocations": [
+      {
+        "collocation": "accelerate the speed",
+        "definition": "加速速度"
+      },
+      {
+        "collocation": "accelerate economic growth",
+        "definition": "加速经济增长"
+      }
+    ]
+  },
+  {
+    "word": "acceleration",
+    "pronunciation": "[əkˌseləˈreɪʃn]",
+    "part_of_speech": "n.",
+    "definition": "加速; 促进; 加速度",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": []
+  },
+  {
+    "word": "celerity",
+    "pronunciation": "[sɪˈlerəti]",
+    "part_of_speech": "n.",
+    "definition": "敏捷, 快速",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": []
+  },
+  {
+    "word": "decelerate",
+    "pronunciation": "di:'seləreit",
+    "part_of_speech": "v.",
+    "definition": "使降低速度，使减慢",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": [
+      {
+        "collocation": "decelerate teaching speed",
+        "definition": "降低教学速度"
+      }
+    ]
+  },
+  {
+    "word": "deceleration",
+    "pronunciation": "di:, sela'reiʃən",
+    "part_of_speech": "n.",
+    "definition": "减速；减速度，负加速度",
+    "example_sentence": "",
+    "root": "decelerate",
+    "key_collocations": []
+  },
+  {
+    "word": "celebrate",
+    "pronunciation": "'selɪbreit",
+    "part_of_speech": "v.",
+    "definition": "庆祝；举行宗教仪式",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": []
+  },
+  {
+    "word": "celebrity",
+    "pronunciation": "səˈlebrəti",
+    "part_of_speech": "n.",
+    "definition": "名人；名声；名流",
+    "example_sentence": "",
+    "root": "celebrate",
+    "key_collocations": []
+  },
+  {
+    "word": "excel",
+    "pronunciation": "ɪkˈsel",
+    "part_of_speech": "vt./vi.",
+    "definition": "超过；擅长（在某方面）胜过别人",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": []
+  },
+  {
+    "word": "excellent",
+    "pronunciation": "'eksələnt",
+    "part_of_speech": "adj.",
+    "definition": "卓越的；极好的；杰出的",
+    "example_sentence": "",
+    "root": "excel",
+    "key_collocations": []
+  },
+  {
+    "word": "excellence",
+    "pronunciation": "'eksəlens",
+    "part_of_speech": "n.",
+    "definition": "优秀；美德；长处",
+    "example_sentence": "",
+    "root": "excel",
+    "key_collocations": []
+  },
+  {
+    "word": "commodity",
+    "pronunciation": "[keˈmɒdɪti]",
+    "part_of_speech": "noun",
+    "definition": "日用品，商品",
+    "example_sentence": "In 1973 commodity prices jumped by 70%, and in 1979 by almost 30%.",
+    "root": "",
+    "key_collocations": [
+      {
+        "collocation": "commodity economy",
+        "definition": "商品经济"
+      },
+      {
+        "collocation": "a commodities fair",
+        "definition": "商品交易会，商品博览会"
+      }
+    ]
+  },
+  {
+    "word": "mode",
+    "pronunciation": "[meʊd]",
+    "part_of_speech": "noun",
+    "definition": "模式，样式；方式，方法",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": [
+      {
+        "collocation": "mode of thinking",
+        "definition": "思维方式"
+      },
+      {
+        "collocation": "mode of operation",
+        "definition": "操作方式"
+      },
+      {
+        "collocation": "normal mode",
+        "definition": "正常模式"
+      }
+    ]
+  },
+  {
+    "word": "modern",
+    "pronunciation": "[ˈmɒdən]",
+    "part_of_speech": "adjective",
+    "definition": "现代的；时髦的，最新的",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": [
+      {
+        "collocation": "modern society",
+        "definition": "现代社会"
+      },
+      {
+        "collocation": "modern science",
+        "definition": "现代科学"
+      },
+      {
+        "collocation": "modern architecture",
+        "definition": "现代建筑"
+      }
+    ]
+  },
+  {
+    "word": "accommodate",
+    "pronunciation": "[əˈkɒmədeɪt]",
+    "part_of_speech": "vt.",
+    "definition": "给…行方便;向…提供(膳宿);容纳",
+    "example_sentence": "She tried to accommodate her way of life to his.",
+    "root": "",
+    "key_collocations": [
+      {
+        "collocation": "accommodate A to B",
+        "definition": "使A迎合B，适应B"
+      }
+    ]
+  },
+  {
+    "word": "accommodation",
+    "pronunciation": "[əˌkɒməˈdeɪʃn]",
+    "part_of_speech": "n.",
+    "definition": ["方便;方便设施", "[常pl.]住处,膳宿;膳宿供应"],
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": []
+  },
+  {
+    "word": "model",
+    "pronunciation": "[ˈmɒdl]",
+    "part_of_speech": "n.",
+    "definition": "模型;模范,典型;模特儿",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": []
+  },
+  {
+    "word": "mold",
+    "pronunciation": "[məʊld]",
+    "part_of_speech": "n.",
+    "definition": "模子,模型;模式;铸模",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": []
+  },
+  {
+    "word": "moderate",
+    "pronunciation": "[ˈmɒdərət]",
+    "part_of_speech": "adj.",
+    "definition": "中等的,适度的;有节制的,温和的,稳健的",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": [
+      {
+        "collocation": "a moderate speed",
+        "definition": "适中的速度"
+      },
+      {
+        "collocation": "moderate politicians",
+        "definition": "温和的政治家"
+      }
+    ]
+  },
+  {
+    "word": "modest",
+    "pronunciation": "[ˈmɒdɪst]",
+    "part_of_speech": "adj.",
+    "definition": "谦虚的;适度的,有节制的",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": [
+      {
+        "collocation": "be modest about...",
+        "definition": "对…谦虚"
+      },
+      {
+        "collocation": "a modest rise in price",
+        "definition": "价格的适度上涨"
+      }
+    ]
+  },
+  {
+    "word": "modesty",
+    "pronunciation": "[ˈmɒdɪsti]",
+    "part_of_speech": "n.",
+    "definition": "谦虚;谦逊",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": []
+  },
+  {
+    "word": "modify",
+    "pronunciation": "[ˈmɒdɪfaɪ]",
+    "part_of_speech": "vt.",
+    "definition": "修改,更改;缓和,减轻",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": [
+      {
+        "collocation": "modify one's position",
+        "definition": "修改某人的立场"
+      }
+    ]
+  },
+  {
+    "word": "modification",
+    "pronunciation": "[, mɔdifi 'keiʃən]",
+    "part_of_speech": "n.",
+    "definition": "修改，改变；缓和，减轻"
+  },
+  {
+    "word": "modifier",
+    "pronunciation": "['mɔdɪfaɪə]",
+    "part_of_speech": "n.",
+    "definition": "修改者，更改者；改造者，改装者"
+  },
+  {
+    "word": "modulate",
+    "pronunciation": "['mɒdjuleɪt]",
+    "part_of_speech": "vt.",
+    "definition": "调整，缓和；调节（声音）"
+  },
+  {
+    "word": "adjust",
+    "pronunciation": "[ə'dʒʌst]",
+    "part_of_speech": "v.",
+    "definition": "调整，调节"
+  },
+  {
+    "word": "regulate",
+    "pronunciation": "[ˈreɡjuleɪt]",
+    "part_of_speech": "v.",
+    "definition": "调节，控制"
+  },
+  {
+    "word": "spiny",
+    "pronunciation": "['spaɪni]",
+    "part_of_speech": "adj.",
+    "definition": "多刺的；尖刺状的；困难的，麻烦的"
+  },
+  {
+    "word": "pin",
+    "pronunciation": "[pɪn]",
+    "part_of_speech": "n.",
+    "definition": "大头针；别针",
+    "example_sentence": "So many pins",
+    "key_collocations": [
+      {
+        "collocation": "pin down",
+        "definition": "使受束缚，阻碍；确定，使下定论"
+      }
+    ]
+  },
+  {
+    "word": "pine",
+    "pronunciation": "[paɪn]",
+    "part_of_speech": "n.",
+    "definition": "松树；松木"
+  },
+  {
+    "word": "pineapple",
+    "pronunciation": "['paɪn, æpl]",
+    "part_of_speech": "n.",
+    "definition": "菠萝"
+  },
+  {
+    "word": "pierce",
+    "pronunciation": "[pɪəs]",
+    "part_of_speech": "v.",
+    "definition": "刺穿，刺破"
+  },
+  {
+    "word": "spear",
+    "pronunciation": "[spie]",
+    "part_of_speech": "n. v.",
+    "definition": "n. 矛; 标枪 v. 用矛刺, 用标枪",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": [
+      {
+        "collocation": "on the spur of the moment",
+        "definition": "时冲动之下，不加考虑地；立即"
+      }
+    ]
+  },
+  {
+    "word": "spur",
+    "pronunciation": "[spe:]",
+    "part_of_speech": "n. v.",
+    "definition": "n. 靴刺, 马刺; 刺激(物) v. 刺激, 激励",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": []
+  },
+  {
+    "word": "pain",
+    "pronunciation": "[pein]",
+    "part_of_speech": "n. v.",
+    "definition": "n. 疼痛; 痛苦 v. (使)痛苦; (使)烦恼",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": []
+  },
+  {
+    "word": "painful",
+    "pronunciation": "[ˈpeɪnfəl]",
+    "part_of_speech": "adj.",
+    "definition": "疼痛的; 引起痛苦的",
+    "example_sentence": "",
+    "root": "pain",
+    "key_collocations": []
+  },
+  {
+    "word": "painless",
+    "pronunciation": "[ˈpeɪnləs]",
+    "part_of_speech": "adj.",
+    "definition": "不痛的, 无痛的",
+    "example_sentence": "",
+    "root": "pain",
+    "key_collocations": []
+  },
+  {
+    "word": "pale",
+    "pronunciation": "[peɪl]",
+    "part_of_speech": "adj. v.",
+    "definition": "adj. 苍白的; (颜色)浅的 v. (使)变苍白, (使)变黯淡",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": []
+  },
+  {
+    "word": "appal",
+    "pronunciation": "[əˈpɔːl]",
+    "part_of_speech": "vt.",
+    "definition": "使惊骇; 使恐怖",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": []
+  },
+  {
+    "word": "pyramid",
+    "pronunciation": "[ˈpɪrəmɪd]",
+    "part_of_speech": "n.",
+    "definition": "金字塔",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": []
+  },
+  {
+    "word": "appoint",
+    "pronunciation": "[əˈpɔɪnt]",
+    "part_of_speech": "vt.",
+    "definition": "任命, 委任; 指派; 约定",
+    "example_sentence": "",
+    "root": "punct- (表示“点; 尖儿; 刺”)",
+    "key_collocations": [
+      {
+        "collocation": "appoint sb. as",
+        "definition": "任命某人为某职位"
+      },
+      {
+        "collocation": "appoint sb. to do sth.",
+        "definition": "指派某人做某事"
+      }
+    ]
+  },
+  {
+    "word": "appointment",
+    "pronunciation": "[əˈpɔɪntmənt]",
+    "part_of_speech": "n.",
+    "definition": "任命, 委派; 职位, 官职; (正式)约会",
+    "example_sentence": "take up an appointment (接受约会)",
+    "root": "",
+    "key_collocations": []
+  },
+  {
+    "word": "disappoint",
+    "pronunciation": "[ˌdɪsəˈpɔɪnt]",
+    "part_of_speech": "vt.",
+    "definition": "使失望, 使沮丧; 使(计划、希望等)破灭, 受挫折",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": []
+  },
+  {
+    "word": "disappointment",
+    "pronunciation": "[ˌdɪsəˈpɔɪntmənt]",
+    "part_of_speech": "n.",
+    "definition": "失望, 沮丧; 使失望的人",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": []
+  },
+  {
+    "word": "disappointed",
+    "pronunciation": "[ˌdɪsəˈpɔɪntɪd]",
+    "part_of_speech": "adj.",
+    "definition": "失望的, 沮丧的",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": []
+  },
+  {
+    "word": "reputation",
+    "pronunciation": "[ˌrepjuˈteɪʃn]",
+    "part_of_speech": "n.",
+    "definition": "名声, 名誉; 声望",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": []
+  },
+  {
+    "word": "punctual",
+    "pronunciation": "[ˈpʌŋktʃuəl]",
+    "part_of_speech": "adj.",
+    "definition": "严守时刻的, 准时的",
+    "example_sentence": "",
+    "root": "punct- (表示“点; 尖儿; 刺”)",
+    "key_collocations": []
+  },
+  {
+    "word": "compunction",
+    "pronunciation": "[kəmˈpʌŋkʃn]",
+    "part_of_speech": "n.",
+    "definition": "良心的责备; 悔恨",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": []
+  },
+  {
+    "word": "punch",
+    "pronunciation": "[pʌntʃ]",
+    "part_of_speech": "v.",
+    "definition": "用拳猛击, 用力推挤; 冲压",
+    "example_sentence": "to punch the card (打卡)",
+    "root": "",
+    "key_collocations": [
+      {
+        "collocation": "to punch the card",
+        "definition": "打卡"
+      }
+    ]
+  },
+  {
+    "word": "pinch",
+    "pronunciation": "[pɪntʃ]",
+    "part_of_speech": "v.",
+    "definition": "捏, 掐, 拧",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": []
+  },
+  {
+    "word": "push",
+    "pronunciation": "[pu]",
+    "part_of_speech": "v./n.",
+    "definition": "推;推动,推进",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": []
+  },
+  {
+    "word": "pull",
+    "pronunciation": "[pul]",
+    "part_of_speech": "v./n.",
+    "definition": "拉,拖,拽",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": []
+  },
+  {
+    "word": "pulse",
+    "pronunciation": "[pɔːls]",
+    "part_of_speech": "n.",
+    "definition": "脉搏;有节奏的跳动(或拍打,振动等)",
+    "example_sentence": "",
+    "root": "puls-",
+    "key_collocations": []
+  },
+  {
+    "word": "compulsory",
+    "pronunciation": "[kəmˈpʌlsəri]",
+    "part_of_speech": "adj.",
+    "definition": "强制的,强迫的;义务的,必须做的",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": [
+      {
+        "collocation": "compulsory measures",
+        "definition": "强制措施"
+      },
+      {
+        "collocation": "compulsory education",
+        "definition": "义务教育"
+      }
+    ]
+  },
+  {
+    "word": "compel",
+    "pronunciation": "[kəmˈpel]",
+    "part_of_speech": "vt.",
+    "definition": "强迫;强求",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": [
+      {
+        "collocation": "compel sb. to do sth.",
+        "definition": "强迫某人做某事"
+      }
+    ]
+  },
+  {
+    "word": "impulse",
+    "pronunciation": "[ˈɪmpʌls]",
+    "part_of_speech": "n.",
+    "definition": "推进,推动;推动力,冲力;冲动",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": []
+  },
+  {
+    "word": "propulsion",
+    "pronunciation": "[prəˈpʌlʃn]",
+    "part_of_speech": "n.",
+    "definition": "推进;推进力",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": []
+  },
+  {
+    "word": "propel",
+    "pronunciation": "[prəˈpel]",
+    "part_of_speech": "vt.",
+    "definition": "推进,推动;驱策,激励",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": [
+      {
+        "collocation": "a person propelled by ambition",
+        "definition": "被野心推动的人"
+      }
+    ]
+  },
+  {
+    "word": "repel",
+    "pronunciation": "[rɪˈpel]",
+    "part_of_speech": "vt.",
+    "definition": "击退,驱除;拒绝;排斥;抵制;使厌恶,使反感",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": [
+      {
+        "collocation": "repel the attacking enemy",
+        "definition": "击退进攻的敌人"
+      },
+      {
+        "collocation": "repel temptation",
+        "definition": "抵制诱惑"
+      }
+    ]
+  },
+  {
+    "word": "repeal",
+    "pronunciation": "[rɪˈpiːl]",
+    "part_of_speech": "vt.",
+    "definition": "撤销,撤回;取消",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": []
+  },
+  {
+    "word": "expel",
+    "pronunciation": "[ɪkˈspel]",
+    "part_of_speech": "vt.",
+    "definition": "驱逐,赶走;排出;开除",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": []
+  },
+  {
+    "word": "absent",
+    "pronunciation": "[ˈæbsənt]",
+    "part_of_speech": "adj.",
+    "definition": "缺席的，不在场的；溜号的，心不在焉的",
+    "example_sentence": "The school confers a medal on any student who is not absent a single day.",
+    "root": "无",
+    "key_collocations": [
+      {
+        "collocation": "absent from classes",
+        "definition": "缺席课程"
+      },
+      {
+        "collocation": "absent from a meeting",
+        "definition": "缺席会议"
+      },
+      {
+        "collocation": "absent from work",
+        "definition": "缺席工作"
+      }
+    ]
+  },
+  {
+    "word": "absence",
+    "pronunciation": "[ˈæbsəns]",
+    "part_of_speech": "n.",
+    "definition": "不在，缺席；缺少，缺乏",
+    "example_sentence": "In the absence of any evidence, the police had to let the man go.",
+    "root": "无",
+    "key_collocations": [
+      {
+        "collocation": "absence of mind",
+        "definition": "心不在焉"
+      },
+      {
+        "collocation": "in the absence of",
+        "definition": "在缺乏...的情况下"
+      }
+    ]
+  },
+  {
+    "word": "present",
+    "pronunciation": "[ˈpreznt]",
+    "part_of_speech": "adj.",
+    "definition": "出席的，在场的；现在的，当前的",
+    "example_sentence": "I’m free at present. 现在我有空。",
+    "root": "无",
+    "key_collocations": [
+      {
+        "collocation": "at present",
+        "definition": "目前"
+      },
+      {
+        "collocation": "for the present",
+        "definition": "暂时"
+      }
+    ]
+  },
+  {
+    "word": "dispel",
+    "pronunciation": "[dɪˈspel]",
+    "part_of_speech": "vt.",
+    "definition": "驱散，消除（云、烦恼等）",
+    "example_sentence": "无",
+    "root": "puls-（驱动；推）",
+    "key_collocations": []
+  },
+  {
+    "word": "dissipate",
+    "pronunciation": "[ˈdɪsɪpeɪt]",
+    "part_of_speech": "v.",
+    "definition": "消散，驱散",
+    "example_sentence": "无",
+    "root": "无",
+    "key_collocations": []
+  },
+  {
+    "word": "presence",
+    "pronunciation": "[ˈprezns]",
+    "part_of_speech": "n.",
+    "definition": "出席,在场;存在",
+    "example_sentence": "in the presence of sb. / in sb.'s presence",
+    "key_collocations": [
+      {
+        "collocation": "saving your presence",
+        "definition": "请恕冒昧"
+      }
+    ]
+  },
+  {
+    "word": "represent",
+    "pronunciation": "[ˌreprɪˈzent]",
+    "part_of_speech": "v.",
+    "definition": "描述,表示;阐明,说明;代表,代理",
+    "example_sentence": "representative [ˌreprɪˈzentətɪv]",
+    "key_collocations": [
+      {
+        "collocation": "representative of",
+        "definition": "典型的,有代表性的"
+      }
+    ]
+  },
+  {
+    "word": "representative",
+    "pronunciation": "[ˌreprɪˈzentətɪv]",
+    "part_of_speech": "a. (of)",
+    "definition": "典型的,有代表性的",
+    "example_sentence": "as a representative system of government 有代表性的政府体系",
+    "key_collocations": [
+      {
+        "collocation": "sales representative",
+        "definition": "销售代表"
+      }
+    ]
+  },
+  {
+    "word": "sentence",
+    "pronunciation": "[ˈsentəns]",
+    "part_of_speech": "vt.",
+    "definition": "宣判,判决",
+    "example_sentence": "",
+    "key_collocations": []
+  },
+  {
+    "word": "essential",
+    "pronunciation": "[ɪˈsenʃl]",
+    "part_of_speech": "a.",
+    "definition": "必不可少的;本质的",
+    "example_sentence": "",
+    "key_collocations": [
+      {
+        "collocation": "in essence",
+        "definition": "在本质上,在实质上"
+      }
+    ]
+  },
+  {
+    "word": "essence",
+    "pronunciation": "[ˈesns]",
+    "part_of_speech": "n.",
+    "definition": "本质,实质,要素;精华",
+    "example_sentence": "",
+    "key_collocations": []
+  },
+  {
+    "word": "incentive",
+    "pronunciation": "[ɪnˈsentɪv]",
+    "part_of_speech": "n.",
+    "definition": "刺激,鼓励",
+    "example_sentence": "",
+    "key_collocations": []
+  },
+  {
+    "word": "abandon",
+    "pronunciation": "[əˈbændən]",
+    "part_of_speech": "vt.",
+    "definition": "丢弃,抛弃;遗弃;使放纵,使放任",
+    "example_sentence": "with abandon",
+    "key_collocations": [
+      {
+        "collocation": "with abandon",
+        "definition": "放纵地,尽情地"
+      },
+      {
+        "collocation": "abandon oneself to",
+        "definition": "沉溺于,放纵于"
+      }
+    ]
+  },
+  {
+    "word": "disappoint",
+    "pronunciation": "[ˌdɪsəˈpɔɪnt]",
+    "part_of_speech": "vt.",
+    "definition": "使失望,使沮丧",
+    "example_sentence": "",
+    "key_collocations": []
+  },
+  {
+    "word": "band",
+    "pronunciation": "[bænd]",
+    "part_of_speech": "n.",
+    "definition": "带,细绳;箍;乐团,乐队;管乐队",
+    "example_sentence": "",
+    "key_collocations": []
+  },
+  {
+    "word": "伙",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "definition": "伙伴，朋友",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": []
+  },
+  {
+    "word": "帮",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "definition": "帮助，援助",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": []
+  },
+  {
+    "word": "群",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "definition": "群体，团体",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": []
+  },
+  {
+    "word": "ban",
+    "pronunciation": "[bæn]",
+    "part_of_speech": "noun/verb",
+    "definition": "禁止；禁令（n.）；禁止，取缔（vt.）",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": [
+      {
+        "collocation": "ban sb. from doing sth.",
+        "definition": "禁止某人做某事"
+      },
+      {
+        "collocation": "under the ban",
+        "definition": "在禁止之下"
+      }
+    ]
+  },
+  {
+    "word": "bend",
+    "pronunciation": "[bend]",
+    "part_of_speech": "noun/verb",
+    "definition": "弯曲；弯腰，行礼（n.）；（使）弯曲（v.）",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": []
+  },
+  {
+    "word": "bent",
+    "pronunciation": "[bent]",
+    "part_of_speech": "adjective",
+    "definition": "弯的，弯曲的",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": []
+  },
+  {
+    "word": "bandage",
+    "pronunciation": "[ˈbændɪdʒ]",
+    "part_of_speech": "noun/verb",
+    "definition": "绷带（n.）；用绷带包扎（vt.）",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": []
+  },
+  {
+    "word": "bind",
+    "pronunciation": "[baɪnd]",
+    "part_of_speech": "verb",
+    "definition": "捆绑；包扎；装订",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": [
+      {
+        "collocation": "bind up sth.",
+        "definition": "包扎某物"
+      },
+      {
+        "collocation": "bind a book",
+        "definition": "装订一本书"
+      }
+    ]
+  },
+  {
+    "word": "combine",
+    "pronunciation": "[kəmˈbaɪn]",
+    "part_of_speech": "verb",
+    "definition": "结合，联合，化合",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": []
+  },
+  {
+    "word": "combine",
+    "pronunciation": "[kəmˈbaɪn]",
+    "part_of_speech": "动词",
+    "definition": "将两个或多个事物结合在一起",
+    "example_sentence": "Combine theory with practice.",
+    "root": "combi",
+    "key_collocations": [
+      {
+        "collocation": "combine A with B",
+        "definition": "将A与B结合"
+      }
+    ]
+  },
+  {
+    "word": "combination",
+    "pronunciation": "[ˌkɒmbɪˈneɪʃn]",
+    "part_of_speech": "名词",
+    "definition": "结合，联合；化合；有共同目的的团体或联盟",
+    "example_sentence": "",
+    "root": "combi",
+    "key_collocations": [
+      {
+        "collocation": "combine theory with practice",
+        "definition": "将理论与实践结合"
+      }
+    ]
+  },
+  {
+    "word": "recombine",
+    "pronunciation": "[ˌriːkəmˈbaɪn]",
+    "part_of_speech": "动词",
+    "definition": "重新组合，重组",
+    "example_sentence": "",
+    "root": "combi",
+    "key_collocations": [
+      {
+        "collocation": "property recombine",
+        "definition": "财产重新组合"
+      }
+    ]
+  },
+  {
+    "word": "bond",
+    "pronunciation": "[bɒnd]",
+    "part_of_speech": "名词",
+    "definition": "结合（物）；联结；镣铐；束；债券；契约，协定",
+    "example_sentence": "",
+    "root": "bond",
+    "key_collocations": [
+      {
+        "collocation": "social bonds",
+        "definition": "社会纽带"
+      }
+    ]
+  },
+  {
+    "word": "strengthen",
+    "pronunciation": "[ˈstrɛŋθn]",
+    "part_of_speech": "动词",
+    "definition": "加强，增强",
+    "example_sentence": "Strengthen bonds.",
+    "root": "streng",
+    "key_collocations": [
+      {
+        "collocation": "strengthen bonds",
+        "definition": "加强联系"
+      }
+    ]
+  },
+  {
+    "word": "bonus",
+    "pronunciation": "[ˈbəʊnəs]",
+    "part_of_speech": "名词",
+    "definition": "奖金；红利",
+    "example_sentence": "",
+    "root": "bon",
+    "key_collocations": [
+      {
+        "collocation": "cash bonus",
+        "definition": "现金奖金"
+      },
+      {
+        "collocation": "December bonus",
+        "definition": "年终奖金"
+      }
+    ]
+  },
+  {
+    "word": "bundle",
+    "pronunciation": "[ˈbʌndl]",
+    "part_of_speech": "名词",
+    "definition": "捆，卷，束；包裹，包袱",
+    "example_sentence": "",
+    "root": "bund",
+    "key_collocations": [
+      {
+        "collocation": "bundle … into",
+        "definition": "把…塞入"
+      },
+      {
+        "collocation": "make up a bundle",
+        "definition": "扎成一包"
+      },
+      {
+        "collocation": "a bundle of newspapers",
+        "definition": "一卷报纸"
+      }
+    ]
+  },
+  {
+    "word": "burden",
+    "pronunciation": "[ˈbɜːdn]",
+    "part_of_speech": "名词",
+    "definition": "重负，重担；负担",
+    "example_sentence": "",
+    "root": "burd",
+    "key_collocations": [
+      {
+        "collocation": "burden (vt.)",
+        "definition": "加重压于，加负担于"
+      }
+    ]
+  },
+  {
+    "word": "bound",
+    "pronunciation": "[baund]",
+    "part_of_speech": "adj.",
+    "definition": "被缚住的, 受束缚的",
+    "example_sentence": "She burdened herself with a overcoat.",
+    "root": "",
+    "key_collocations": [
+      {
+        "collocation": "be bound up with",
+        "definition": "意识到某事物与另一事物有密切关系"
+      },
+      {
+        "collocation": "be bound to",
+        "definition": "必定会发生"
+      },
+      {
+        "collocation": "be bound up in",
+        "definition": "忙于某事，无法分身"
+      }
+    ]
+  },
+  {
+    "word": "abound",
+    "pronunciation": "[əˈbaʊnd]",
+    "part_of_speech": "vi.",
+    "definition": "大量存在; 充满, 富于",
+    "example_sentence": "Fish abound in this river.",
+    "root": "",
+    "key_collocations": [
+      {
+        "collocation": "abound in",
+        "definition": "富含, 充满"
+      }
+    ]
+  },
+  {
+    "word": "abundant",
+    "pronunciation": "[əˈbʌndənt]",
+    "part_of_speech": "adj.",
+    "definition": "大量的, 充足的; 丰富的",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": [
+      {
+        "collocation": "abundant supply",
+        "definition": "充足的供应"
+      },
+      {
+        "collocation": "abundant proof",
+        "definition": "充分的证据"
+      }
+    ]
+  },
+  {
+    "word": "abundance",
+    "pronunciation": "[əˈbʌndəns]",
+    "part_of_speech": "n.",
+    "definition": "丰富, 充足; 大量",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": [
+      {
+        "collocation": "an abundance of",
+        "definition": "大量的"
+      },
+      {
+        "collocation": "in abundance",
+        "definition": "丰富地"
+      },
+      {
+        "collocation": "live in abundance",
+        "definition": "过着丰衣足食的生活"
+      }
+    ]
+  },
+  {
+    "word": "boundary",
+    "pronunciation": "[ˈbaʊndri]",
+    "part_of_speech": "n.",
+    "definition": "边界, 分界线; 界限, 范围",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": []
+  },
+  {
+    "word": "mark",
+    "pronunciation": "[mɑːk]",
+    "part_of_speech": "verb",
+    "definition": "标明边界线",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": []
+  },
+  {
+    "word": "boundary",
+    "pronunciation": "[ˈbaʊndri]",
+    "part_of_speech": "noun",
+    "definition": "边界线",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": []
+  },
+  {
+    "word": "national",
+    "pronunciation": "[ˈnæʃənl]",
+    "part_of_speech": "adjective",
+    "definition": "国家的，国界的",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": []
+  },
+  {
+    "word": "within",
+    "pronunciation": "[wɪˈðɪn]",
+    "part_of_speech": "preposition",
+    "definition": "在…范围内",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": []
+  },
+  {
+    "word": "apart",
+    "pronunciation": "[əˈpɑːt]",
+    "part_of_speech": "adverb",
+    "definition": "相隔，分开；有距离地",
+    "example_sentence": "Apart from his earnings as a coach, Li Ning also owns and runs a chain of sports shops.",
+    "root": "",
+    "key_collocations": [
+      {
+        "collocation": "apart from",
+        "definition": "除了"
+      }
+    ]
+  },
+  {
+    "word": "parttime",
+    "pronunciation": "[ˈpɑːttaɪm]",
+    "part_of_speech": "adjective",
+    "definition": "兼职的；非全日的",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": []
+  },
+  {
+    "word": "partial",
+    "pronunciation": "[ˈpɑːʃl]",
+    "part_of_speech": "adjective",
+    "definition": "部分的，局部的；不公平的，偏袒的",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": [
+      {
+        "collocation": "partial success",
+        "definition": "部分成功"
+      },
+      {
+        "collocation": "be partial to/towards sb.",
+        "definition": "偏爱某人"
+      }
+    ]
+  },
+  {
+    "word": "apartment",
+    "pronunciation": "[əˈpɑːtmənt]",
+    "part_of_speech": "noun",
+    "definition": "公寓房间；公寓大楼",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": []
+  },
+  {
+    "word": "impartial",
+    "pronunciation": "[ɪmˈpɑːʃəl]",
+    "part_of_speech": "adjective",
+    "definition": "公正的，无偏见的",
+    "root": "part",
+    "key_collocations": [
+      {
+        "collocation": "in particular",
+        "definition": "特别是，尤其是"
+      }
+    ]
+  },
+  {
+    "word": "participate",
+    "pronunciation": "[pɑːˈtɪsɪpeɪt]",
+    "part_of_speech": "verb (intransitive)",
+    "definition": "分享；参加，参与",
+    "root": "part",
+    "key_collocations": []
+  },
+  {
+    "word": "participant",
+    "pronunciation": "[pɑːˈtɪsɪpənt]",
+    "part_of_speech": "noun",
+    "definition": "参加者，参与者",
+    "root": "part",
+    "key_collocations": []
+  },
+  {
+    "word": "particle",
+    "pronunciation": "[ˈpɑːtɪkl]",
+    "part_of_speech": "noun",
+    "definition": "微粒，颗粒；极小量",
+    "root": "part",
+    "key_collocations": [
+      {
+        "collocation": "particles of rock",
+        "definition": "岩石颗粒"
+      }
+    ]
+  },
+  {
+    "word": "particular",
+    "pronunciation": "[pəˈtɪkjələr]",
+    "part_of_speech": "adjective",
+    "definition": "个别的；特殊的，独特的",
+    "root": "part",
+    "key_collocations": [
+      {
+        "collocation": "in particular",
+        "definition": "特别是，尤其是"
+      }
+    ]
+  },
+  {
+    "word": "depart",
+    "pronunciation": "[dɪˈpɑːrt]",
+    "part_of_speech": "verb (intransitive)",
+    "definition": "离开，启程；出发",
+    "root": "part",
+    "key_collocations": [
+      {
+        "collocation": "departure dates",
+        "definition": "出发日期"
+      }
+    ]
+  },
+  {
+    "word": "departure",
+    "pronunciation": "[dɪˈpɑːrtʃər]",
+    "part_of_speech": "noun",
+    "definition": "离开；出发，起程",
+    "root": "part",
+    "key_collocations": [
+      {
+        "collocation": "departure dates",
+        "definition": "出发日期"
+      }
+    ]
+  },
+  {
+    "word": "department",
+    "pronunciation": "[dɪˈpɑːrtmənt]",
+    "part_of_speech": "noun",
+    "definition": "部门；（行政、企业等的）部；司；局；处；科；（大学的）系",
+    "root": "part",
+    "key_collocations": [
+      {
+        "collocation": "department store",
+        "definition": "百货商店"
+      }
+    ]
+  },
+  {
+    "word": "proportion",
+    "pronunciation": "[prəˈpɔːrʃən]",
+    "part_of_speech": "noun",
+    "definition": "比例，比率；均衡，相称",
+    "root": "proport",
+    "key_collocations": [
+      {
+        "collocation": "in proportion to",
+        "definition": "与…成比例"
+      },
+      {
+        "collocation": "out of proportion",
+        "definition": "不成比例，不相称"
+      }
+    ]
+  },
+  {
+    "word": "proportional",
+    "pronunciation": "[prəˈpɔːrʃənl]",
+    "part_of_speech": "adjective",
+    "definition": "成比例的；均衡的，相称的",
+    "root": "proport",
+    "key_collocations": []
+  },
+  {
+    "word": "disproportionate",
+    "pronunciation": "[ˌdɪsprəˈpɔːrʃənət]",
+    "part_of_speech": "adjective",
+    "definition": "不成比例的，比例失调的",
+    "root": "proport",
+    "key_collocations": []
+  },
+  {
+    "word": "separate",
+    "pronunciation": "'sepəreɪt",
+    "part_of_speech": "v.",
+    "definition": "分离，分开",
+    "root": "sert"
+  },
+  {
+    "word": "assertive",
+    "pronunciation": "[ə'sɜːtɪv]",
+    "part_of_speech": "adv.",
+    "definition": "断言的，肯定的；武断的，独断的"
+  },
+  {
+    "word": "insert",
+    "pronunciation": "[ɪn'sɜːt]",
+    "part_of_speech": "v.",
+    "definition": "插入，嵌入",
+    "example_sentence": "He inserted the key into the lock.",
+    "root": "sert",
+    "key_collocations": [
+      {
+        "collocation": "insert into",
+        "definition": "插入到"
+      },
+      {
+        "collocation": "insert page",
+        "definition": "插入页"
+      }
+    ]
+  },
+  {
+    "word": "insertion",
+    "pronunciation": "[ɪn'sɜːʃn]",
+    "part_of_speech": "n.",
+    "definition": "插入，嵌入；插入物",
+    "root": "sert"
+  },
+  {
+    "word": "assert",
+    "pronunciation": "[ə'sɜːt]",
+    "part_of_speech": "v.",
+    "definition": "断言，宣称；坚持",
+    "example_sentence": "He asserted his innocence.",
+    "root": "sert",
+    "key_collocations": [
+      {
+        "collocation": "assert one's authority",
+        "definition": "坚持自己的权威"
+      }
+    ]
+  },
+  {
+    "word": "assertion",
+    "pronunciation": "[ə'sɜːʃn]",
+    "part_of_speech": "n.",
+    "definition": "断言，宣明；主张",
+    "root": "sert",
+    "key_collocations": [
+      {
+        "collocation": "assertion of one's rights",
+        "definition": "主张自己的权利"
+      }
+    ]
+  },
+  {
+    "word": "desert",
+    "pronunciation": "[ˈdezərt]",
+    "part_of_speech": "n.",
+    "definition": "沙漠，不毛之地；荒野",
+    "root": "sert"
+  },
+  {
+    "word": "dessert",
+    "pronunciation": "[dɪˈzɜːrt]",
+    "part_of_speech": "n.",
+    "definition": "餐后甜点；甜点心"
+  },
+  {
+    "word": "series",
+    "pronunciation": "[ˈsɪəriːz]",
+    "part_of_speech": "n.",
+    "definition": "连续，系列；丛书",
+    "key_collocations": [
+      {
+        "collocation": "a series of",
+        "definition": "一系列"
+      },
+      {
+        "collocation": "series of pictures",
+        "definition": "一系列图片"
+      }
+    ]
+  },
+  {
+    "word": "serial",
+    "pronunciation": "[ˈsɪəriəl]",
+    "part_of_speech": "a.",
+    "definition": "连续的，连载的"
+  }
+]
