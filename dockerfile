@@ -1,36 +1,42 @@
-# 使用Node.js官方镜像作为基础镜像
-FROM node:16
+# Use the official Node.js 20 Alpine image as a base
+FROM node:20-alpine AS builder
 
-# 设置工作目录
+# Set the working directory
 WORKDIR /app
 
-# 复制package.json和package-lock.json
+# Copy package.json and package-lock.json
 COPY package*.json ./
 
-# 安装项目依赖
+# Install dependencies
 RUN npm install
 
-# 复制项目文件到工作目录
+# Copy the rest of the application files
 COPY . .
 
-# 构建Next.js应用
+# Build the Next.js application
 RUN npm run build
 
-# 使用多阶段构建，使用轻量级的Node.js镜像
-FROM node:16-slim
+# Production image
+FROM node:20-alpine
 
-# 设置工作目录
+# Set the working directory
 WORKDIR /app
 
-# 复制构建后的文件
-COPY --from=0 /app/.next ./.next
-COPY --from=0 /app/node_modules ./node_modules
-COPY --from=0 /app/package*.json ./
-COPY --from=0 /app/next.config.js ./
-COPY --from=0 /app/public ./public
+# Copy only the necessary files from the builder stage
+COPY --from=builder /app/next.config.js ./
+COPY --from=builder /app/package.json ./
+COPY --from=builder /app/package-lock.json ./
+COPY --from=builder /app/public ./public
+COPY --from=builder /app/.next ./.next
 
-# 暴露端口
+# Install only production dependencies
+RUN npm install --production
+
+# Set the NODE_ENV to production
+ENV NODE_ENV=production
+
+# Expose the default Next.js port
 EXPOSE 3000
 
-# 启动Next.js应用
+# Start the Next.js application
 CMD ["npm", "start"]
