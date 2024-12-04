@@ -2,24 +2,11 @@
 // pages/index.tsx
 import { Layout } from 'antd';
 import { useRouter } from 'next/navigation';
-import { get } from '@vercel/edge-config';
 import Head from 'next/head';
 import { Button, Row, Col } from 'antd';
-import { useEffect, useState } from 'react';
 
 const Home: React.FC = () => {
   const route = useRouter()
-  const [a, setA] = useState('')
-
-  useEffect(() => {
-    test()
-  }, [])
-
-  const test = async () => {
-    const greeting = await get('greeting');
-    setA(JSON.stringify(greeting))
-  }
-
   return (
     <Layout>
       <Head>
