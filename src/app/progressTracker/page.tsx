@@ -3,10 +3,22 @@
 import { Layout } from 'antd';
 import ProgressTracker from '@/app/components/ProgressTracker';
 import Navigation from '@/app/components/Navigation';
-import { useWords } from '@/app/hooks/useWords';
+import { useEffect, useState } from 'react';
 
 const Index = () => {
-  const { words } = useWords({ name: 'error.json' })
+  const [words, setWords] = useState([])
+  useEffect(() => {
+    try {
+      const json = localStorage.getItem('my-word-learning-app') || '[]'
+      setWords(JSON.parse(json))
+    } catch (error) {
+      console.log('====================================');
+      console.log(error);
+      console.log('====================================');
+    }
+
+  }, [])
+
 
   return (
     <Layout>

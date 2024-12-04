@@ -32,7 +32,7 @@ const Home: React.FC = () => {
         </Col>
         <Col xs={24} sm={12} md={8} lg={6}>
           <Button style={{ marginBottom: '10px' }} type="primary" block onClick={() => route.push("/progressTracker")}>
-            进度{a}
+            错词本
           </Button>
         </Col>
       </Row>
