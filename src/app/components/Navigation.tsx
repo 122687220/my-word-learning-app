@@ -24,7 +24,7 @@ const MobileNavbar: React.FC<MobileNavbarProps> = () => {
             text = '首页'
         }
         if (pathname === '/progressTracker') {
-            text = '进度'
+            text = '错词本'
         }
         if (pathname === '/pronunciationPractice') {
             text = '练习'
@@ -45,7 +45,7 @@ const MobileNavbar: React.FC<MobileNavbarProps> = () => {
 
     return (
         <Header style={{ padding: '0 16px', backgroundColor: '#fff', borderBottom: '1px solid #e8e8e8' }}>
-            <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between' }}>
+            <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', margin: '15px' }}>
                 {title !== '首页' && <LeftOutlined onClick={handleBack} />}
                 <Title level={4} style={{ margin: 0, flexGrow: 1, textAlign: 'center' }}>
                     {title}
