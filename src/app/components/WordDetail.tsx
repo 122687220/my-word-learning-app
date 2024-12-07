@@ -1,12 +1,12 @@
 import React from 'react';
 import { WordFormData } from '@/app/interface';
 
-const Index = ({ currentWord }: { currentWord: WordFormData | null }) => {
+const Index = ({ currentWord, showBorder = false }: { currentWord: WordFormData | null; showBorder?: boolean }) => {
     if (!currentWord) {
         return null
     }
     return (
-        <div>
+        <div style={showBorder ? { borderBottom: '1px #eee solid', marginBottom: '10px' } : {}}>
             <p><strong>Word:</strong> {currentWord.word}</p>
             <p><strong>Pronunciation:</strong> {currentWord?.pronunciation}</p>
             <p><strong>Definition:</strong> {currentWord?.definition}</p>
