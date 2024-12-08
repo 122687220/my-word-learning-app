@@ -4,8 +4,12 @@ import { WordFormData } from '@/app/interface';
 import WordDetail from '@/app/components/WordDetail';
 import { Card, Button, Input } from 'antd';
 import { filterWords } from '@/app/utils';
+import { useRouter } from 'next/navigation';
+
 
 const Index: React.FC<{ words: WordFormData[] }> = ({ words }) => {
+    const route = useRouter()
+
     const [currentWord, setCurrentWord] = useState<WordFormData | null>(null);
     const [userInput, setUserInput] = useState<string>('');
     const [findWords, setFindWords] = useState<WordFormData[]>([]);
@@ -37,6 +41,9 @@ const Index: React.FC<{ words: WordFormData[] }> = ({ words }) => {
                 <WordDetail currentWord={currentWord} />
                 <Button type="primary" onClick={() => handleNextWord(false)}>
                     下一个
+                </Button>
+                <Button color="danger" variant="outlined" style={{ marginLeft: '20px' }} onClick={() => route.push(`/memory?word=${currentWord?.word}&memory=${currentWord?.memory}`)}>
+                    记忆方法
                 </Button>
             </Card>
 

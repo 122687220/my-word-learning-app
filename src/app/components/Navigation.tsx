@@ -36,6 +36,10 @@ const MobileNavbar: React.FC<MobileNavbarProps> = () => {
             text = '添加单词'
         }
 
+        if (pathname === '/memory') {
+            text = '记忆'
+        }
+
         setTitle(text)
     }, [])
 

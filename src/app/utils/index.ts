@@ -51,3 +51,18 @@ export const replaceChinesePunctuationToEnglish = (input: string): string => {
   
     return input.replace(regex, (match) => replaceMap[match] || match);
   }
+
+export const getStorage = (key = '', defaultData: unknown) => {
+    try {
+        const json = localStorage.getItem(key) || JSON.stringify(defaultData)
+        return JSON.parse(json)
+    } catch (error) {
+        console.log('getStorage:',error);
+        
+        return defaultData
+    }
+}
+
+export const setStorage = (key = '', data: unknown) => {
+    localStorage.setItem(key, JSON.stringify(data))
+}

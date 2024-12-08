@@ -12,4 +12,5 @@ export interface WordFormData {
     example_sentence: string;
     root: string;
     key_collocations: KeyCollocation[];
+    memory?: string;
 }
