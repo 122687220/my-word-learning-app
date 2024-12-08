@@ -39,7 +39,7 @@ const Home = () => {
       getContent(word)
     }
 
-    setKey(a)
+    setKey(a || '123')
 
     console.log('asdfas', a);
 
