@@ -14,17 +14,19 @@ import { getStorage, setStorage } from '@/app/utils';
 //   baseURL: "https://api.moonshot.cn/v1",
 // });
 
-if (process.env.moon) {
-  const a = process.env.moon
-  console.log('123=>', a);
 
-}
 
 const Home = () => {
   const [content, setContent] = useState<string>('')
   const [show, setShow] = useState<boolean>(false)
 
-  // const [key, setKey] = useState<string>('')
+  const [key, setKey] = useState<string>('')
+  if (process.env.moon) {
+    const a = process.env.moon
+    console.log('123=>', a);
+
+    setKey(a || '456')
+  }
 
   useEffect(() => {
     const [wordStr] = location.search.replace('?', "").split('&')
@@ -90,7 +92,7 @@ const Home = () => {
   return (
     <Layout>
       <Navigation />
-      sadfsd:{process.env.moon}
+      sadfsd:{key}
       {show && <Spin indicator={<LoadingOutlined spin />} />}
       <div style={{ margin: '20px 20px' }}>
         <ReactMarkdown>
