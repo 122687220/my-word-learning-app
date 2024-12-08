@@ -45,7 +45,7 @@ export async function POST(req: Request) {
 ${memory}
 """
 
-你有充足的时间思考[单词]、[词根]和[记忆方式]，开始。`
+你没有时间思考，快点回复，开始。`
       }],
       temperature: 0.3
   });
