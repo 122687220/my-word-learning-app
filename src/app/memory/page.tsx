@@ -14,6 +14,8 @@ import { getStorage, setStorage } from '@/app/utils';
 //   baseURL: "https://api.moonshot.cn/v1",
 // });
 
+const a = process.env.moon
+
 const Home = () => {
   const [content, setContent] = useState<string>('')
   const [show, setShow] = useState<boolean>(false)
@@ -37,9 +39,9 @@ const Home = () => {
       getContent(word)
     }
 
-    setKey(process.env.moon || '')
+    setKey(a)
 
-    console.log(process.env.moon);
+    console.log('asdfas', a);
 
   }, [])
 
