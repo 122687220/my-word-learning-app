@@ -1,5 +1,5 @@
 "use client"
-import { Layout, Spin } from 'antd';
+import { Layout, Spin, Button } from 'antd';
 import Navigation from '@/app/components/Navigation';
 import { useEffect, useRef, useState } from 'react';
 import { LoadingOutlined } from '@ant-design/icons';
@@ -48,7 +48,7 @@ const Home = () => {
   }, [])
 
   const getContent = async (word = '') => {
-    setKey(moon.current)
+
     try {
       const resJson = '' //await getLLM({ word, memory }) || '';
 
@@ -93,6 +93,9 @@ const Home = () => {
   return (
     <Layout>
       <Navigation />
+      <Button type="primary" onClick={() => setKey(moon.current)}>
+        下一个
+      </Button>
       sadfsd:{moon.current}
       key:{key}
       {show && <Spin indicator={<LoadingOutlined spin />} />}
