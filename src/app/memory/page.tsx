@@ -21,8 +21,10 @@ const Home = () => {
   const [show, setShow] = useState<boolean>(false)
 
   const [key, setKey] = useState<string>('')
-  if (process.env.moon) {
-    const a = process.env.moon
+
+  let a = ''
+  if (process.env.moon && !a) {
+    a = process.env.moon
     console.log('123=>', a);
 
     setKey(a || '456')
