@@ -1,8 +1,8 @@
 // pages/api/saveWord.ts
-import OpenAI from 'openai';
+// import OpenAI from 'openai';
 
 
-export async function POST(req: Request) {
+export async function POST() {
 //   const { word = '', memory='', root = '' } = await req.json()
 //   const client = new OpenAI({
 //     apiKey: process.env.NEXT_PUBLIC_MOON,    
