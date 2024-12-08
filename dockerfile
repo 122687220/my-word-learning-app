@@ -1,42 +1,23 @@
 # Use the official Node.js 20 Alpine image as a base
 FROM node:latest
 
-# Set the working directory
+# 设置工作目录
 WORKDIR /app
 
-# Copy package.json and package-lock.json
+# 复制 package.json 和 package-lock.json 到工作目录
 COPY package*.json ./
 
-# Install dependencies
+# 安装依赖项
 RUN npm install
 
-# Copy the rest of the application files
+# 复制项目文件到工作目录
 COPY . .
 
-# Build the Next.js application
+# 构建 Next.js 应用程序
 RUN npm run build
 
-# Production image
-FROM node:latest
-
-# Set the working directory
-WORKDIR /app
-
-# Copy only the necessary files from the builder stage
-COPY --from=builder /app/next.config.js ./
-COPY --from=builder /app/package.json ./
-COPY --from=builder /app/package-lock.json ./
-COPY --from=builder /app/public ./public
-COPY --from=builder /app/.next ./.next
-
-# Install only production dependencies
-RUN npm install --production
-
-# Set the NODE_ENV to production
-ENV NODE_ENV=production
-
-# Expose the default Next.js port
+# 暴露端口 3000，这是 Next.js 应用程序默认的端口
 EXPOSE 3000
 
-# Start the Next.js application
+# 启动应用程序
 CMD ["npm", "start"]
