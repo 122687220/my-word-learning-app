@@ -22,10 +22,10 @@ const Home = () => {
 
   const moon = useRef('')
 
-  const [key, setKey] = useState<string>(process.env.moon || '')
+  const [key, setKey] = useState<string>(process.env.NEXT_PUBLIC_MOON || '')
 
-  if (process.env.moon && !moon.current) {
-    moon.current = process.env.moon
+  if (process.env.NEXT_PUBLIC_MOON && !moon.current) {
+    moon.current = process.env.NEXT_PUBLIC_MOON
   }
 
   useEffect(() => {
