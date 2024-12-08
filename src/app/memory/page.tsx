@@ -1,7 +1,7 @@
 "use client"
 import { Layout, Spin } from 'antd';
 import Navigation from '@/app/components/Navigation';
-import { useEffect, useState } from 'react';
+import { useEffect, useRef, useState } from 'react';
 import { LoadingOutlined } from '@ant-design/icons';
 import { LLM_CONTENT } from '@/app/utils/constant';
 import ReactMarkdown from 'react-markdown';
@@ -20,15 +20,17 @@ const Home = () => {
   const [content, setContent] = useState<string>('')
   const [show, setShow] = useState<boolean>(false)
 
-  const [key, setKey] = useState<string>('')
+  const moon = useRef(process.env.moon)
 
-  let a = ''
-  if (process.env.moon && !a) {
-    a = process.env.moon
-    console.log('123=>', a);
+  const [key] = useState<string>(process.env.moon || '')
 
-    setKey(a || '456')
-  }
+  // let a = ''
+  // if (process.env.moon && !a) {
+  //   a = process.env.moon
+  //   console.log('123=>', a);
+
+  //   setKey(a || '456')
+  // }
 
   useEffect(() => {
     const [wordStr] = location.search.replace('?', "").split('&')
@@ -94,7 +96,8 @@ const Home = () => {
   return (
     <Layout>
       <Navigation />
-      sadfsd:{key}
+      sadfsd:{moon.current}
+      key:{key}
       {show && <Spin indicator={<LoadingOutlined spin />} />}
       <div style={{ margin: '20px 20px' }}>
         <ReactMarkdown>
