@@ -1,7 +1,7 @@
 "use client"
-import { Layout, Spin, Button } from 'antd';
+import { Layout, Spin } from 'antd';
 import Navigation from '@/app/components/Navigation';
-import { useEffect, useRef, useState } from 'react';
+import { useEffect, useState } from 'react';
 import { LoadingOutlined } from '@ant-design/icons';
 import { LLM_CONTENT } from '@/app/utils/constant';
 import ReactMarkdown from 'react-markdown';
@@ -20,13 +20,13 @@ const Home = () => {
   const [content, setContent] = useState<string>('')
   const [show, setShow] = useState<boolean>(false)
 
-  const moon = useRef('')
+  // const moon = useRef('')
 
-  const [key, setKey] = useState<string>(process.env.NEXT_PUBLIC_MOON || '')
+  // const [key, setKey] = useState<string>(process.env.NEXT_PUBLIC_MOON || '')
 
-  if (process.env.NEXT_PUBLIC_MOON && !moon.current) {
-    moon.current = process.env.NEXT_PUBLIC_MOON
-  }
+  // if (process.env.NEXT_PUBLIC_MOON && !moon.current) {
+  //   moon.current = process.env.NEXT_PUBLIC_MOON
+  // }
 
   useEffect(() => {
     const [wordStr] = location.search.replace('?', "").split('&')
@@ -93,11 +93,7 @@ const Home = () => {
   return (
     <Layout>
       <Navigation />
-      <Button type="primary" onClick={() => setKey(moon.current)}>
-        下一个
-      </Button>
-      sadfsd:{moon.current}
-      key:{key}
+
       {show && <Spin indicator={<LoadingOutlined spin />} />}
       <div style={{ margin: '20px 20px' }}>
         <ReactMarkdown>
