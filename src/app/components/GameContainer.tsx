@@ -6,11 +6,12 @@ import WordChainGameEr from './WordChainGameEr';
 import SpellingChallenge from './SpellingChallenge';
 import MultipleChoice from './MultipleChoice';
 import { Tabs } from 'antd';
-import { useWords } from '@/app/hooks/useWords';
+// import { useWords } from '@/app/hooks/useWords';
+import { useMyContext } from '@/app/context';
 
 const GameContainer = () => {
     const [activeKey, setActiveKey] = useState('1');
-    const { words } = useWords()
+    const { words } = useMyContext()
 
     return (
         <Tabs activeKey={activeKey} onChange={setActiveKey}>

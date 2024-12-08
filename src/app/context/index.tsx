@@ -1,4 +1,4 @@
-// context/MyContext.tsx
+"use client"
 import { createContext, useContext, ReactNode } from 'react';
 import { useWords } from '@/app/hooks/useWords';
 import { WordFormData } from '@/app/interface';
