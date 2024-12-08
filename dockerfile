@@ -1,5 +1,5 @@
 # Use the official Node.js 20 Alpine image as a base
-FROM node:16.15.1
+FROM node:latest
 
 # Set the working directory
 WORKDIR /app
@@ -17,7 +17,7 @@ COPY . .
 RUN npm run build
 
 # Production image
-FROM node:20-alpine
+FROM node:latest
 
 # Set the working directory
 WORKDIR /app
