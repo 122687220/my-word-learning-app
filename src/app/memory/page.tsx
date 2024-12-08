@@ -7,8 +7,11 @@ import { LoadingOutlined } from '@ant-design/icons';
 import { LLM_CONTENT } from '@/app/utils/constant';
 import ReactMarkdown from 'react-markdown';
 import { getStorage, setStorage } from '@/app/utils';
+console.log(process.env.moon);
 
 const Home = () => {
+  console.log(process.env.moon);
+
   const [content, setContent] = useState<string>('')
   const [show, setShow] = useState<boolean>(false)
 
@@ -48,6 +51,7 @@ const Home = () => {
   return (
     <Layout>
       <Navigation />
+      {process.env.moon}
       {show && <Spin indicator={<LoadingOutlined spin />} />}
       <div style={{ margin: '20px 20px' }}>
         <ReactMarkdown>
