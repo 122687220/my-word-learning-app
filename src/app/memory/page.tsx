@@ -9,13 +9,15 @@ import { getStorage, setStorage } from '@/app/utils';
 import OpenAI from 'openai';
 
 const client = new OpenAI({
-  apiKey: process.env.moon,
+  apiKey: 'process.env.moon',
   baseURL: "https://api.moonshot.cn/v1",
 });
 
 const Home = () => {
   const [content, setContent] = useState<string>('')
   const [show, setShow] = useState<boolean>(false)
+
+  const [key, setKey] = useState<string>('')
 
   useEffect(() => {
     const [wordStr, memoryStr] = location.search.replace('?', "").split('&')
@@ -33,6 +35,8 @@ const Home = () => {
       setShow(true)
       getContent(word, memory)
     }
+
+    setKey(process.env.moon || '')
   }, [])
 
   const getContent = async (word = '', memory = '') => {
@@ -80,6 +84,7 @@ const Home = () => {
   return (
     <Layout>
       <Navigation />
+      sadfsd{key}
       {show && <Spin indicator={<LoadingOutlined spin />} />}
       <div style={{ margin: '20px 20px' }}>
         <ReactMarkdown>
