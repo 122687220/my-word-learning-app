@@ -3,10 +3,11 @@
 import { Layout } from 'antd';
 import PronunciationPractice from '@/app/components/PronunciationPractice';
 import Navigation from '@/app/components/Navigation';
-import { useWords } from '@/app/hooks/useWords';
+// import { useWords } from '@/app/hooks/useWords';
+import { useMyContext } from '@/app/context';
 
 const Home = () => {
-  const { words } = useWords()
+  const { words } = useMyContext();
 
   return (
     <Layout>

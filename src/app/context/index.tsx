@@ -1,18 +1,20 @@
 // context/MyContext.tsx
-import { createContext, useContext, useState } from 'react';
+import { createContext, useContext, ReactNode } from 'react';
+import { useWords } from '@/app/hooks/useWords';
+import { WordFormData } from '@/app/interface';
 
 interface MyContextType {
-  value: string;
-  setValue: (value: string) => void;
+  words: WordFormData[];
 }
 
-const MyContext = createContext<MyContextType | undefined>(undefined);
+const MyContext = createContext<MyContextType>({ words: [] });
 
-export const MyContextProvider: React.FC = ({ children }) => {
-  const [value, setValue] = useState('');
+
+export const MyContextProvider: React.FC<{ children: ReactNode; }> = ({ children }) => {
+  const { words } = useWords()
 
   return (
-    <MyContext.Provider value={{ value, setValue }}>
+    <MyContext.Provider value={{ words }}>
       {children}
     </MyContext.Provider>
   );

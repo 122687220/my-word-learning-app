@@ -3,7 +3,7 @@ import { useEffect, useState } from 'react';
 import { WordFormData } from '@/app/interface';
 import { request } from '@/app/utils/request';
 
-export const useWords = ({ name = '' } = {}) => {
+export const useWords = ({ name = '' } = {}): { words: WordFormData[] } => {
     const [words, setWords] = useState<WordFormData[]>([])
 
     useEffect(() => {
