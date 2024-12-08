@@ -1,7 +1,6 @@
 "use client"
 import { Layout, Spin } from 'antd';
 import Navigation from '@/app/components/Navigation';
-import { useSearchParams } from 'next/navigation'
 import { useEffect, useState } from 'react';
 import { request } from '../utils/request';
 import { LoadingOutlined } from '@ant-design/icons';
@@ -10,14 +9,14 @@ import ReactMarkdown from 'react-markdown';
 import { getStorage, setStorage } from '@/app/utils';
 
 const Home = () => {
-  const searchParams = useSearchParams()
   const [content, setContent] = useState<string>('')
   const [show, setShow] = useState<boolean>(false)
 
   useEffect(() => {
-    const params = new URLSearchParams(searchParams.toString())
-    const word = params.get('word') || ''
-    const memory = params.get('memory') || ''
+    const [wordStr, memoryStr] = location.search.replace('?', "").split('&')
+
+    const word = wordStr.split('=')[1] || ''
+    const memory = memoryStr.split('=')[1] || ''
 
     const dic = getStorage(LLM_CONTENT, {})
 

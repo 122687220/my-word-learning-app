@@ -1,13 +1,12 @@
 // pages/api/saveWord.ts
 import OpenAI from 'openai';
 
-const client = new OpenAI({
-  apiKey: process.env.moon,    
-  baseURL: "https://api.moonshot.cn/v1",
-});
-
 export async function POST(req: Request) {
   const { word = '', memory='' } = await req.json()
+  const client = new OpenAI({
+    apiKey: process.env.moon || 'my',    
+    baseURL: "https://api.moonshot.cn/v1",
+  });
   try {
     const completion = await client.chat.completions.create({
       model: "moonshot-v1-8k",         
