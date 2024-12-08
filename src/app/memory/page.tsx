@@ -5,7 +5,7 @@ import { useEffect, useState } from 'react';
 import { LoadingOutlined } from '@ant-design/icons';
 import { LLM_CONTENT } from '@/app/utils/constant';
 import ReactMarkdown from 'react-markdown';
-import { getStorage, setStorage } from '@/app/utils';
+import { getStorage } from '@/app/utils';
 import { request } from '@/app/utils/request';
 
 const Home = () => {
