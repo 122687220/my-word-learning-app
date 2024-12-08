@@ -20,17 +20,13 @@ const Home = () => {
   const [content, setContent] = useState<string>('')
   const [show, setShow] = useState<boolean>(false)
 
-  const moon = useRef(process.env.moon)
+  const moon = useRef('')
 
-  const [key] = useState<string>(process.env.moon || '')
+  const [key, setKey] = useState<string>(process.env.moon || '')
 
-  // let a = ''
-  // if (process.env.moon && !a) {
-  //   a = process.env.moon
-  //   console.log('123=>', a);
-
-  //   setKey(a || '456')
-  // }
+  if (process.env.moon && !moon.current) {
+    moon.current = process.env.moon
+  }
 
   useEffect(() => {
     const [wordStr] = location.search.replace('?', "").split('&')
@@ -52,6 +48,7 @@ const Home = () => {
   }, [])
 
   const getContent = async (word = '') => {
+    setKey(moon.current)
     try {
       const resJson = '' //await getLLM({ word, memory }) || '';
 
