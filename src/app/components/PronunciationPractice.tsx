@@ -42,7 +42,7 @@ const Index: React.FC<{ words: WordFormData[] }> = ({ words }) => {
                 <Button type="primary" onClick={() => handleNextWord(false)}>
                     下一个
                 </Button>
-                <Button color="danger" variant="outlined" style={{ marginLeft: '20px' }} onClick={() => route.push(`/memory?word=${currentWord?.word}&memory=${currentWord?.memory}`)}>
+                <Button color="danger" variant="outlined" style={{ marginLeft: '20px' }} onClick={() => route.push(`/memory?word=${currentWord?.word}&memory=${currentWord?.memory}&root=${currentWord?.root}`)}>
                     记忆方法
                 </Button>
             </Card>
