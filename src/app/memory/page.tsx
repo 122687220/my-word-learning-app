@@ -1,5 +1,5 @@
 "use client"
-import { Layout, Spin } from 'antd';
+import { Layout, Spin, Button } from 'antd';
 import Navigation from '@/app/components/Navigation';
 import { useEffect, useState } from 'react';
 import { LoadingOutlined } from '@ant-design/icons';
@@ -13,24 +13,26 @@ const Home = () => {
   const [show, setShow] = useState<boolean>(false)
 
   useEffect(() => {
+    handleClick()
+  }, [])
+
+  const handleClick = (needUpdate = false) => {
     const [wordStr, memoryStr, rootStr] = location.search.replace('?', "").split('&')
 
     const word = wordStr?.split('=')[1] || ''
     const memory = memoryStr?.split('=')[1] || ''
     const root = rootStr?.split('=')[1] || ''
-
     const dic = getStorage(LLM_CONTENT, {})
-
     const isExist = Object.keys(dic).some(item => item === word)
 
-    if (isExist) {
-      setContent(dic[word])
-    } else if (word) {
+
+    if (needUpdate || (word && !isExist)) {
       setShow(true)
       getContent(word, memory, root)
+    } else {
+      setContent(dic[word])
     }
-
-  }, [])
+  }
 
   const getContent = async (word = '', memory = '', root = '') => {
 
@@ -57,6 +59,9 @@ const Home = () => {
           {content}
         </ReactMarkdown>
       </div>
+      <Button type="primary" onClick={() => handleClick(true)}>
+          更新
+      </Button>
     </Layout>
   );
 };
