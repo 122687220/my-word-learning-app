@@ -22,7 +22,7 @@ const Home: React.FC = () => {
         </Col> */}
         <Col xs={24} sm={12} md={8} lg={6}>
           <Button style={{ marginBottom: '10px' }} type="primary" block onClick={() => route.push("/pronunciationPractice")}>
-            练习单词
+            单词练习
           </Button>
         </Col>
         <Col xs={24} sm={12} md={8} lg={6}>
