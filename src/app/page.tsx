@@ -17,7 +17,7 @@ const Home: React.FC = () => {
       <Row justify="center" gutter={20} style={{ margin: '20px' }}>
         {/* <Col xs={24} sm={12} md={8} lg={6}>
           <Button style={{ marginBottom: '10px' }} type="primary" block onClick={() => route.push("/addWords")}>
-            输入单词
+            单词输入
           </Button>
         </Col> */}
         <Col xs={24} sm={12} md={8} lg={6}>
