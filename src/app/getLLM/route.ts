@@ -45,7 +45,7 @@ export async function POST(req: Request) {
 ${memory}
 """
 
-你没有时间思考，快点回复，开始。`
+你有充足的时间思考，漫画的内容要值得推敲，逻辑性强。开始。`
       }],
       temperature: 0.3
   });
