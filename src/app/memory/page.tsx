@@ -5,7 +5,7 @@ import { useEffect, useState } from 'react';
 import { LoadingOutlined } from '@ant-design/icons';
 import { LLM_CONTENT } from '@/app/utils/constant';
 import ReactMarkdown from 'react-markdown';
-import { getStorage } from '@/app/utils';
+import { getStorage, setStorage } from '@/app/utils';
 import { request } from '@/app/utils/request';
 
 const Home = () => {
@@ -41,9 +41,9 @@ const Home = () => {
 
       setContent(resJson.content)
 
-      // const dic = getStorage(LLM_CONTENT, [])
+      const dic = getStorage(LLM_CONTENT, [])
 
-      // setStorage(LLM_CONTENT, { ...dic, [word]: resJson.content })
+      setStorage(LLM_CONTENT, { ...dic, [word]: resJson.content })
     } catch (error) {
       console.log(error);
     }
