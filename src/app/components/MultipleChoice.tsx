@@ -64,7 +64,7 @@ const WordGame: React.FC<{ words: WordGameProps[] }> = ({ words }) => {
 
     return (
         <div>
-            <Button type="primary" onClick={handleNextQuestion}>
+            <Button type="primary" onClick={handleNextQuestion} disabled={!showResult}>
                 下一题
             </Button>
             {currentWord && (

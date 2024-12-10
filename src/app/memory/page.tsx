@@ -58,10 +58,11 @@ const Home = () => {
         <ReactMarkdown>
           {content}
         </ReactMarkdown>
-      </div>
-      <Button type="primary" onClick={() => handleClick(true)}>
+
+        <Button style={{marginTop: '20px'}} type="primary" onClick={() => handleClick(true)}>
           更新
       </Button>
+      </div>
     </Layout>
   );
 };

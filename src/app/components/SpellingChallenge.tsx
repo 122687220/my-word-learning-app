@@ -62,7 +62,7 @@ const WordLearningPage: React.FC<{ words: WordFormData[] }> = ({ words }) => {
 
     return (
         <div style={{ marginBottom: '10px' }}>
-            <Button type="primary" onClick={handleNextQuestion}>
+            <Button type="primary" onClick={handleNextQuestion} disabled={!showAnswer}>
                 下一题
             </Button>
 
