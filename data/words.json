@@ -5,7 +5,7 @@
     "part_of_speech": "adj.",
     "definition": "不标准的，不规范的；不正常的，反常的；变态的",
     "example_sentence": "The machinist pressed his ear to the instrument in order to listen and tell where the abnormal sound came from.",
-    "root": "norm",
+    "root": "norm 规则、准则、标准 规则、准则、标准",
     "key_collocations": [
       {
         "collocation": "an abnormal phenomenon",
@@ -26,21 +26,21 @@
     "pronunciation": "[nɔːm]",
     "part_of_speech": "n.",
     "definition": "标准，规范",
-    "root": "norm"
+    "root": "norm 规则、准则、标准"
   },
   {
     "word": "normal",
     "pronunciation": "[ˈnɔːml]",
     "part_of_speech": "adj.",
     "definition": "正常的，标准的；（人的精神，身体）正常发育的",
-    "root": "norm"
+    "root": "norm 规则、准则、标准"
   },
   {
     "word": "normally",
     "pronunciation": "[ˈnɔːməli]",
     "part_of_speech": "adv.",
     "definition": "通常，正常地",
-    "root": "norm"
+    "root": "norm 规则、准则、标准"
   },
   {
     "word": "enormous",
@@ -48,7 +48,7 @@
     "part_of_speech": "adj.",
     "definition": "巨大的，庞大的",
     "example_sentence": "",
-    "root": "norm",
+    "root": "norm 规则、准则、标准",
     "key_collocations": [
       {
         "collocation": "an enormous amount of money",
@@ -74,7 +74,7 @@
     "part_of_speech": "adv.",
     "definition": "巨大地，庞大地（超纲词汇）",
     "example_sentence": "",
-    "root": "norm",
+    "root": "norm 规则、准则、标准",
     "key_collocations": []
   },
   {
@@ -83,7 +83,7 @@
     "part_of_speech": "vt./vi.",
     "definition": "欣赏，赏识；感谢，感激；体会，领会；察知（土地、货币等）增值",
     "example_sentence": ["appreciate poetry", "appreciate the danger ahead"],
-    "root": "",
+    "root": "preci- 价格、价值",
     "key_collocations": []
   },
   {
@@ -92,7 +92,7 @@
     "part_of_speech": "n.",
     "definition": "欣赏，鉴赏；赏识；感谢，谢意；正确评价；涨价；增值",
     "example_sentence": "",
-    "root": "",
+    "root": "preci- 价格、价值",
     "key_collocations": []
   },
   {
@@ -101,7 +101,8 @@
     "part_of_speech": "adj.",
     "definition": "有欣赏力的；能确认价值的；表示赞赏的，感谢的",
     "example_sentence": "",
-    "root": "",
+    "root": "preci- 价格、价值",
+    "memory": "tive 往往有主动的意义",
     "key_collocations": []
   },
   {
@@ -110,7 +111,7 @@
     "part_of_speech": "adj.",
     "definition": "可估价的；可评估的，可估计的；可感知的，可察觉的",
     "example_sentence": "",
-    "root": "",
+    "root": "preci- 价格、价值",
     "key_collocations": []
   },
   {
@@ -119,15 +120,15 @@
     "part_of_speech": "adj.",
     "definition": "贵重的，宝贵的，珍贵的",
     "example_sentence": "",
-    "root": "preci-",
+    "root": "preci- 价格、价值",
     "key_collocations": [
       {
         "collocation": "precious moments",
-        "definition": ""
+        "definition": "宝贵时光，珍贵时刻"
       },
       {
         "collocation": "precious treasure",
-        "definition": ""
+        "definition": "珍宝"
       }
     ]
   },
@@ -137,7 +138,8 @@
     "part_of_speech": "v.",
     "definition": "降低（…的）价值（或价格）；（使）贬值；轻视，贬低",
     "example_sentence": "",
-    "root": "preci-",
+    "root": "preci- 价格、价值",
+    "memory": "de 表示向下，向下的价值，代表贬值。ate 是动词后缀",
     "key_collocations": []
   },
   {
@@ -146,7 +148,8 @@
     "part_of_speech": "noun",
     "definition": "降价，跌价；折旧，贬值；轻视，贬低",
     "example_sentence": "",
-    "root": "",
+    "root": "preci- 价格、价值",
+    "memory": "de 表示向下，向下的价值，代表贬值。tion 名词后缀",
     "key_collocations": []
   },
   {
@@ -155,7 +158,8 @@
     "part_of_speech": "verb",
     "definition": "解释，说明；阐明，诠释；口译",
     "example_sentence": "",
-    "root": "",
+    "root": "preci- 价格、价值",
+    "memory": "preci + ate = pret。inter 代表两者之间",
     "key_collocations": [
       {
         "collocation": "interpret a difficult poem",
@@ -177,7 +181,8 @@
     "part_of_speech": "noun",
     "definition": "解释；口译",
     "example_sentence": "",
-    "root": "",
+    "root": "preci- 价格、价值",
+    "memory": "preci + ate = pret。inter 代表两者之间",
     "key_collocations": []
   },
   {
@@ -186,7 +191,8 @@
     "part_of_speech": "adjective",
     "definition": "解释的，说明的",
     "example_sentence": "",
-    "root": "",
+    "root": "preci- 价格、价值",
+    "memory": "preci + ate = pret。inter 代表两者之间。tive 往往有主动的意义",
     "key_collocations": []
   },
   {
@@ -195,7 +201,8 @@
     "part_of_speech": "noun",
     "definition": "译者，口译员；阐述人",
     "example_sentence": "",
-    "root": "",
+    "root": "preci- 价格、价值",
+    "memory": "preci + ate = pret。inter 代表两者之间",
     "key_collocations": []
   },
   {
@@ -204,7 +211,8 @@
     "part_of_speech": "noun/verb",
     "definition": "赞美，称赞；表扬",
     "example_sentence": "",
-    "root": "",
+    "root": "preci- 价格、价值",
+    "memory": "p-palm 手掌，raise-举起",
     "key_collocations": []
   },
   {
@@ -213,7 +221,8 @@
     "part_of_speech": "verb",
     "definition": "祈祷，祈求；恳求，请求",
     "example_sentence": "",
-    "root": "",
+    "root": "preci- 价格、价值",
+    "memory": "pra-praise，y-ify: 动词后缀",
     "key_collocations": []
   },
   {
@@ -222,7 +231,8 @@
     "part_of_speech": "adjective",
     "definition": "虔诚的，笃信的；敬神的，虔奉宗教的",
     "example_sentence": "",
-    "root": "",
+    "root": "preci- 价格、价值",
+    "memory": "pray + ous",
     "key_collocations": []
   },
   {
@@ -231,7 +241,8 @@
     "part_of_speech": "verb",
     "definition": "吸收；吸引（注意等），使全神贯注",
     "example_sentence": "",
-    "root": "sorb",
+    "root": "sorb 吸",
+    "memory": "ab-远离，sorb-吸",
     "key_collocations": [
       {
         "collocation": "be absorbed by",
@@ -253,7 +264,8 @@
     "part_of_speech": "noun",
     "definition": "吸收；全神贯注，专心致志",
     "example_sentence": "",
-    "root": "sorb",
+    "root": "sorb 吸",
+    "memory": "p = b，是请浊辅音的变化",
     "key_collocations": []
   },
   {
@@ -262,7 +274,8 @@
     "part_of_speech": "adjective",
     "definition": "被吸收的；专心致志的，全神贯注的",
     "example_sentence": "",
-    "root": "sorb",
+    "root": "sorb 吸",
+    "memory": "ed 往往有被动的意义",
     "key_collocations": []
   },
   {
@@ -271,7 +284,8 @@
     "part_of_speech": "adjective",
     "definition": "有吸收力的；吸引性的",
     "example_sentence": "",
-    "root": "sorb",
+    "root": "sorb 吸",
+    "memory": "tive 往往有主动的意义",
     "key_collocations": []
   },
   {
@@ -280,7 +294,7 @@
     "part_of_speech": "verb/noun",
     "definition": "呜咽，抽泣；呜咽声，抽泣声",
     "example_sentence": "",
-    "root": "",
+    "root": "sorb 吸",
     "key_collocations": [
       {
         "collocation": "Sob story",
@@ -298,7 +312,7 @@
     "part_of_speech": "noun",
     "definition": "汤",
     "example_sentence": "",
-    "root": "",
+    "root": "sorb 吸",
     "key_collocations": []
   },
   {
@@ -325,7 +339,7 @@
     "part_of_speech": "verb/noun",
     "definition": "接近，靠近；途径；方法，步骤",
     "example_sentence": "The first and more important is the consumer's growing preference for eating out; the consumption of food and drink in places other than homes has risen from about 32 percent of total consumption in 1995 to 35 percent in 2000 and is expected to approach 38 percent by 2005.",
-    "root": "proach",
+    "root": "proach- 接近，靠近",
     "key_collocations": [
       {
         "collocation": "approach perfection",
@@ -342,7 +356,7 @@
     "pronunciation": "[əˈprəʊtʃəbl]",
     "part_of_speech": "adjective",
     "definition": "可接近的；易亲近的；易交谈的",
-    "root": "proach",
+    "root": "proach- 接近，靠近",
     "key_collocations": []
   },
   {
@@ -350,7 +364,7 @@
     "pronunciation": "[əˌprəʊtʃəˈbɪləti]",
     "part_of_speech": "noun",
     "definition": "可接近性，易接近性",
-    "root": "proach",
+    "root": "proach- 接近，靠近",
     "key_collocations": []
   },
   {
@@ -359,7 +373,8 @@
     "part_of_speech": "verb",
     "definition": "宠爱，溺爱；宠坏；损坏；搞错",
     "example_sentence": "",
-    "root": "",
+    "root": "sorb",
+    "memory": "soup + oil",
     "key_collocations": [
       {
         "collocation": "spoil for",
@@ -385,7 +400,7 @@
       },
       {
         "collocation": "take a sip",
-        "definition": "喝一小口"
+        "definition": "喝一小口，尝试"
       }
     ]
   },
@@ -395,7 +410,8 @@
     "part_of_speech": "verb/adjective",
     "definition": "接近；近似",
     "example_sentence": "",
-    "root": "proxim",
+    "root": "proxim- 接近，靠近（边缘，数值）。proach + rim(边缘)",
+    "memory": "ap-加强语气，",
     "key_collocations": []
   },
   {
@@ -403,7 +419,7 @@
     "pronunciation": "[əˈprɒksɪmətli]",
     "part_of_speech": "adverb",
     "definition": "大概，近乎",
-    "root": "proxim",
+    "root": "proxim- 接近，靠近（边缘，数值）。proach + rim(边缘)",
     "key_collocations": []
   },
   {
@@ -411,15 +427,15 @@
     "pronunciation": "[əˌprɒksɪˈmeɪʃn]",
     "part_of_speech": "noun",
     "definition": "接近；近似，近乎；近似值",
-    "root": "proxim",
+    "root": "proxim- 接近，靠近（边缘，数值）。proach + rim(边缘)",
     "key_collocations": []
   },
   {
     "word": "proximity",
     "pronunciation": "[prɒkˈsɪməti]",
     "part_of_speech": "noun",
-    "definition": "接近，邻近；亲近",
-    "root": "proxim",
+    "definition": "接近，邻近；亲近（人与人之间）",
+    "root": "proxim- 接近，靠近（边缘，数值）。proach + rim(边缘)",
     "key_collocations": []
   },
   {
@@ -428,7 +444,7 @@
     "part_of_speech": "verb/noun",
     "definition": "接触，碰触；触摸；触觉，触感；接触，联系",
     "example_sentence": "",
-    "root": "",
+    "root": "touch- 触摸，触碰，接触，联系",
     "key_collocations": [
       {
         "collocation": "keep in touch with sb.",
@@ -446,7 +462,8 @@
     "part_of_speech": "adj.",
     "definition": "受感动的, 受触动的",
     "example_sentence": "",
-    "root": "",
+    "root": "touch- 触摸，触碰，接触，联系",
+    "memory":"ed 往往有被动的意义",
     "key_collocations": []
   },
   {
@@ -455,7 +472,7 @@
     "part_of_speech": "n.",
     "definition": "试金石; 检验, 标准",
     "example_sentence": "",
-    "root": "",
+    "root": "touch- 触摸，触碰，接触，联系",
     "key_collocations": [
       {
         "collocation": "tangle with",
@@ -469,7 +486,8 @@
     "part_of_speech": "adj.",
     "definition": "易怒的; 棘手的",
     "example_sentence": "",
-    "root": "",
+    "root": "touch- 触摸，触碰，接触，联系",
+    "memory":"y-angry",
     "key_collocations": []
   },
   {
@@ -478,7 +496,8 @@
     "part_of_speech": "v.",
     "definition": "修改, 润色",
     "example_sentence": "",
-    "root": "",
+    "root": "touch- 触摸，触碰，接触，联系",
+    "memory":"re-反复",
     "key_collocations": []
   },
   {
@@ -487,7 +506,8 @@
     "part_of_speech": "adj.",
     "definition": "碰不着的; 不可触摸的",
     "example_sentence": "",
-    "root": "",
+    "root": "touch- 触摸，触碰，接触，联系",
+    "memory":"un-否定",
     "key_collocations": []
   },
   {
@@ -496,7 +516,23 @@
     "part_of_speech": "n.",
     "definition": "比赛, 竞赛; 对手, 敌手; (一根)火柴",
     "example_sentence": "",
-    "root": "",
+    "root": "touch- 触摸，触碰，接触，联系",
+    "memory":"man + touch = 比赛。woman + touch = watch。古希腊，男人参加比赛，女人看比赛",
+    "synonym": [
+      {
+        "collocation": "enemy",
+        "definition": "敌人"
+      },
+      {
+        "collocation": "rival",
+        "definition": "竞争的，对抗的"
+      },
+      {
+        "collocation": "opponent",
+        "definition": "对手",
+        "memory": "ent-人"
+      }
+    ],
     "key_collocations": []
   },
   {
