@@ -491,6 +491,53 @@
     "key_collocations": []
   },
   {
+    "word": "tangle",
+    "pronunciation": "[ˈtæŋɡ(ə)l]",
+    "part_of_speech": "v.",
+    "definition": "（使）纠缠，（使）纠结，（使）混乱；纠缠，纠结，混乱",
+    "example_sentence": "",
+    "root": "tang- 触摸，触碰，接触",
+    "memory":"",
+    "key_collocations": [
+      {
+        "collocation": "tangle with",
+        "definition": ""
+      }
+    ]
+  },
+  {
+    "word": "tangible",
+    "pronunciation": "[ˈtændʒəb(ə)l]",
+    "part_of_speech": "adj.",
+    "definition": "明确的，真实的；可触摸的，可感知的；可触知的东西",
+    "example_sentence": "",
+    "root": "tang- 触摸，触碰，接触",
+    "memory":"",
+    "derivative": [
+      {
+        "collocation": "intangible",
+        "definition": "触摸不到的，难以理解的",
+        "key_collocations": [
+          {
+            "collocation": "intangible ideas",
+            "definition": "难以明白的观念"
+          }
+        ]
+      }
+    ],
+    "key_collocations": []
+  },
+  {
+    "word": "contaminate",
+    "pronunciation": "[kənˈtæmɪneɪt]",
+    "part_of_speech": "v.",
+    "definition": "污染，弄脏；毒害，腐蚀（人的思想或品德）",
+    "example_sentence": "",
+    "root": "tang- 触摸，触碰，接触",
+    "memory":"",
+    "key_collocations": []
+  },
+  {
     "word": "retouch",
     "pronunciation": "[ˈriːˈtʌtʃ]",
     "part_of_speech": "v.",
@@ -542,7 +589,12 @@
     "definition": "伙伴, 同事; 配偶",
     "example_sentence": "",
     "root": "",
-    "key_collocations": []
+    "key_collocations": [
+      {
+        "collocation": "match",
+        "definition": "比赛, 竞赛; 对手, 敌手; (一根)火柴"
+      }
+    ]
   },
   {
     "word": "intimate",
@@ -564,7 +616,8 @@
     "part_of_speech": "n.",
     "definition": "触觉; 机敏, 机智; 手法, 老练",
     "example_sentence": "",
-    "root": "tact-",
+    "root": "tact-触摸，触碰，接触，机敏，机智",
+    "memory": "touch+it",
     "key_collocations": []
   },
   {
@@ -573,7 +626,8 @@
     "part_of_speech": "adj.",
     "definition": "有触觉的; 能触知的",
     "example_sentence": "",
-    "root": "",
+    "root": "tact-触摸，触碰，接触，机敏，机智",
+    "memory": "ile=able=al=ible",
     "key_collocations": []
   },
   {
@@ -582,7 +636,13 @@
     "part_of_speech": "n.",
     "definition": "战术; 策略; 手法",
     "example_sentence": "",
-    "root": "",
+    "root": "tact-触摸，触碰，接触，机敏，机智",
+    "memory": "ic/ics-...学，一种手法之学，表示战术",
+    "synonym":[{
+       "collocation": "strategy",
+        "definition": "战术，战略",
+        "memory": "street+enemy 对付敌人的道，就是战术"
+    }],
     "key_collocations": []
   },
   {
@@ -591,7 +651,8 @@
     "part_of_speech": "adj.",
     "definition": "完整无缺的; 未受损伤的",
     "example_sentence": "",
-    "root": "",
+    "root": "tact-触摸，触碰，接触，机敏，机智",
+    "memory": "in-否",
     "key_collocations": []
   },
   {
@@ -600,7 +661,15 @@
     "part_of_speech": "n.",
     "definition": "接触, 触碰; 联系, 联络",
     "example_sentence": "",
-    "root": "",
+    "root": "tact-触摸，触碰，接触，机敏，机智",
+    "memory": "con=com=co 表示共同，一起，完全",
+    "derivative": [
+      {
+        "collocation": "contiguous",
+        "definition": "接近的，比邻的，临近的",
+        "memory":"contig=contact"
+      }
+    ],
     "key_collocations": [
       {
         "collocation": "be in of contact with sb.",
@@ -618,7 +687,8 @@
     "part_of_speech": "v.",
     "definition": "加速, 增速; 促进, 加快",
     "example_sentence": "Supercomputers will dramatically accelerate progress in all areas of life.",
-    "root": "celer-",
+    "root": "celer-快速，迅速",
+    "memory":"ac 表加强语气；ate是动词后缀",
     "key_collocations": [
       {
         "collocation": "accelerate the speed",
@@ -631,12 +701,23 @@
     ]
   },
   {
+    "word": "growth",
+    "pronunciation": "[/ɡrəʊθ/]",
+    "part_of_speech": "n.",
+    "definition": "成长，生长；增长，发展；肿瘤，赘生物；生长物，产物；种植，栽培",
+    "example_sentence": "",
+    "root": "",
+    "memory":"th是名词后缀。moon是月亮，mooth是月份",
+    "key_collocations": []
+  },
+  {
     "word": "acceleration",
     "pronunciation": "[əkˌseləˈreɪʃn]",
     "part_of_speech": "n.",
     "definition": "加速; 促进; 加速度",
     "example_sentence": "",
-    "root": "",
+    "root": "celer-快速，迅速",
+    "memory":"ac 表加强语气；tion是动词后缀",
     "key_collocations": []
   },
   {
@@ -645,7 +726,7 @@
     "part_of_speech": "n.",
     "definition": "敏捷, 快速",
     "example_sentence": "",
-    "root": "",
+    "root": "celer-快速，迅速",
     "key_collocations": []
   },
   {
@@ -654,7 +735,7 @@
     "part_of_speech": "v.",
     "definition": "使降低速度，使减慢",
     "example_sentence": "",
-    "root": "",
+    "root": "celer-快速，迅速",
     "key_collocations": [
       {
         "collocation": "decelerate teaching speed",
@@ -668,7 +749,7 @@
     "part_of_speech": "n.",
     "definition": "减速；减速度，负加速度",
     "example_sentence": "",
-    "root": "decelerate",
+    "root": "celer-快速，迅速",
     "key_collocations": []
   },
   {
@@ -677,7 +758,8 @@
     "part_of_speech": "v.",
     "definition": "庆祝；举行宗教仪式",
     "example_sentence": "",
-    "root": "",
+    "root": "celer-快速，迅速",
+    "memory":"cele=celer; br=bring 带来; ate=动词后缀",
     "key_collocations": []
   },
   {
@@ -686,7 +768,14 @@
     "part_of_speech": "n.",
     "definition": "名人；名声；名流",
     "example_sentence": "",
-    "root": "celebrate",
+    "root": "celer-快速，迅速",
+    "memory":"ty是名词后缀",
+    "synonym": [
+      {
+        "collocation": "reputation",
+        "definition": "名声"
+      }
+    ],
     "key_collocations": []
   },
   {
@@ -695,7 +784,8 @@
     "part_of_speech": "vt./vi.",
     "definition": "超过；擅长（在某方面）胜过别人",
     "example_sentence": "",
-    "root": "",
+    "root": "celer-快速，迅速",
+    "memory":"ex=向外；cel=快",
     "key_collocations": []
   },
   {
@@ -704,7 +794,14 @@
     "part_of_speech": "adj.",
     "definition": "卓越的；极好的；杰出的",
     "example_sentence": "",
-    "root": "excel",
+    "root": "celer-快速，迅速",
+    "synonym": [
+      {
+        "collocation": "eminent",
+        "definition": "杰出的",
+        "memory": "e=ex 向外；min=man"
+      }
+    ],
     "key_collocations": []
   },
   {
@@ -713,7 +810,27 @@
     "part_of_speech": "n.",
     "definition": "优秀；美德；长处",
     "example_sentence": "",
-    "root": "excel",
+    "root": "celer-快速，迅速",
+    "key_collocations": []
+  },
+  {
+    "word": "operation",
+    "pronunciation": "[ˌɒpəˈreɪʃ(ə)n]",
+    "part_of_speech": "n.",
+    "definition": "运作，实施；运转，操作；手术；（有组织的）活动，行动；军事行动；企业，公司；业务，经营 ；（数学）运算",
+    "example_sentence": "",
+    "root": "",
+    "memory":"ope=open",
+    "key_collocations": []
+  },
+  {
+    "word": "architecture",
+    "pronunciation": "[ˈɑːkɪtektʃə(r)]",
+    "part_of_speech": "n.",
+    "definition": "建筑设计，建筑风格；建筑学；结构；计算机的体系结构，架构",
+    "example_sentence": "",
+    "root": "",
+    "memory":"arch=拱门，英国的建站大多都会有拱门",
     "key_collocations": []
   },
   {
@@ -722,7 +839,8 @@
     "part_of_speech": "noun",
     "definition": "日用品，商品",
     "example_sentence": "In 1973 commodity prices jumped by 70%, and in 1979 by almost 30%.",
-    "root": "",
+    "root": "mode",
+    "memory":"com=共同；mod=mode 模式，方法；ity=名词后缀",
     "key_collocations": [
       {
         "collocation": "commodity economy",
@@ -740,7 +858,7 @@
     "part_of_speech": "noun",
     "definition": "模式，样式；方式，方法",
     "example_sentence": "",
-    "root": "",
+    "root": "mode",
     "key_collocations": [
       {
         "collocation": "mode of thinking",
@@ -762,7 +880,8 @@
     "part_of_speech": "adjective",
     "definition": "现代的；时髦的，最新的",
     "example_sentence": "",
-    "root": "",
+    "root": "mode",
+    "memory":"结尾的n=new",
     "key_collocations": [
       {
         "collocation": "modern society",
@@ -784,7 +903,7 @@
     "part_of_speech": "vt.",
     "definition": "给…行方便;向…提供(膳宿);容纳",
     "example_sentence": "She tried to accommodate her way of life to his.",
-    "root": "",
+    "root": "commodity",
     "key_collocations": [
       {
         "collocation": "accommodate A to B",
@@ -798,7 +917,7 @@
     "part_of_speech": "n.",
     "definition": ["方便;方便设施", "[常pl.]住处,膳宿;膳宿供应"],
     "example_sentence": "",
-    "root": "",
+    "root": "commodity",
     "key_collocations": []
   },
   {
@@ -807,7 +926,17 @@
     "part_of_speech": "n.",
     "definition": "模型;模范,典型;模特儿",
     "example_sentence": "",
+    "root": "mode",
+    "key_collocations": []
+  },
+  {
+    "word": "politicians",
+    "pronunciation": "[ˌpɒləˈtɪʃənz]",
+    "part_of_speech": "n.",
+    "definition": "政治家，政客（politician 复数形式）",
+    "example_sentence": "",
     "root": "",
+    "memory":"poli=police 警察；tic=形容词；ans=人",
     "key_collocations": []
   },
   {
@@ -816,7 +945,7 @@
     "part_of_speech": "n.",
     "definition": "模子,模型;模式;铸模",
     "example_sentence": "",
-    "root": "",
+    "root": "mode",
     "key_collocations": []
   },
   {
@@ -825,7 +954,8 @@
     "part_of_speech": "adj.",
     "definition": "中等的,适度的;有节制的,温和的,稳健的",
     "example_sentence": "",
-    "root": "",
+    "root": "mode",
+    "memory":"mod=mode; er=比较级；做事讲究方式方法，表示适度的，有节制的",
     "key_collocations": [
       {
         "collocation": "a moderate speed",
@@ -843,7 +973,7 @@
     "part_of_speech": "adj.",
     "definition": "谦虚的;适度的,有节制的",
     "example_sentence": "",
-    "root": "",
+    "root": "mode",
     "key_collocations": [
       {
         "collocation": "be modest about...",
@@ -861,7 +991,7 @@
     "part_of_speech": "n.",
     "definition": "谦虚;谦逊",
     "example_sentence": "",
-    "root": "",
+    "root": "mode",
     "key_collocations": []
   },
   {
@@ -870,7 +1000,19 @@
     "part_of_speech": "vt.",
     "definition": "修改,更改;缓和,减轻",
     "example_sentence": "",
-    "root": "",
+    "root": "mode",
+    "synonym":[
+      {
+        "collocation": "adjust",
+        "definition": "调整，缓和，调节（声音）",
+        "memory": "ad=加强语气；just=刚刚好"
+      },
+      {
+        "collocation": "regulate",
+        "definition": "（用规则条例）控制，管理；调节，调整；监控，监管；校准，对准（时钟或其他仪器）",
+        "memory": "reign=统治；foreign=外国；foresee=遇见"
+      }
+    ],
     "key_collocations": [
       {
         "collocation": "modify one's position",
@@ -882,18 +1024,21 @@
     "word": "modification",
     "pronunciation": "[, mɔdifi 'keiʃən]",
     "part_of_speech": "n.",
+    "root": "mode",
     "definition": "修改，改变；缓和，减轻"
   },
   {
     "word": "modifier",
     "pronunciation": "['mɔdɪfaɪə]",
     "part_of_speech": "n.",
+    "root": "mode",
     "definition": "修改者，更改者；改造者，改装者"
   },
   {
     "word": "modulate",
     "pronunciation": "['mɒdjuleɪt]",
     "part_of_speech": "vt.",
+    "root": "mode",
     "definition": "调整，缓和；调节（声音）"
   },
   {
