@@ -23,8 +23,10 @@ const Index: React.FC<{ words: WordFormData[] }> = ({ words }) => {
             const find = words.find(item => item.word.includes(userInput)) || null
             setCurrentWord(find)
         } else {
-            const randomIndex = Math.floor(Math.random() * words.length);
-            setCurrentWord(words[randomIndex]);
+            const root = location.search.replace('?', "").split('&')[0].split('=')[1] || ''
+            const arr = root ? words.filter(item => item.root === decodeURI(root)) : words
+            const randomIndex = Math.floor(Math.random() * arr.length);
+            setCurrentWord(arr[randomIndex]);
         }
 
         setUserInput('')

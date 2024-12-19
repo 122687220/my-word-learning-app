@@ -40,6 +40,10 @@ const MobileNavbar: React.FC<MobileNavbarProps> = () => {
             text = '记忆'
         }
 
+        if (pathname === '/rootPractice') {
+            text = '词根练习'
+        }
+
         setTitle(text)
     }, [])
 
