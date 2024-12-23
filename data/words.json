@@ -463,7 +463,7 @@
     "definition": "受感动的, 受触动的",
     "example_sentence": "",
     "root": "touch- 触摸，触碰，接触，联系",
-    "memory":"ed 往往有被动的意义",
+    "memory": "ed 往往有被动的意义",
     "key_collocations": []
   },
   {
@@ -487,7 +487,7 @@
     "definition": "易怒的; 棘手的",
     "example_sentence": "",
     "root": "touch- 触摸，触碰，接触，联系",
-    "memory":"y-angry",
+    "memory": "y-angry",
     "key_collocations": []
   },
   {
@@ -497,7 +497,7 @@
     "definition": "（使）纠缠，（使）纠结，（使）混乱；纠缠，纠结，混乱",
     "example_sentence": "",
     "root": "tang- 触摸，触碰，接触",
-    "memory":"",
+    "memory": "",
     "key_collocations": [
       {
         "collocation": "tangle with",
@@ -512,7 +512,7 @@
     "definition": "明确的，真实的；可触摸的，可感知的；可触知的东西",
     "example_sentence": "",
     "root": "tang- 触摸，触碰，接触",
-    "memory":"",
+    "memory": "",
     "derivative": [
       {
         "collocation": "intangible",
@@ -534,7 +534,7 @@
     "definition": "污染，弄脏；毒害，腐蚀（人的思想或品德）",
     "example_sentence": "",
     "root": "tang- 触摸，触碰，接触",
-    "memory":"",
+    "memory": "",
     "key_collocations": []
   },
   {
@@ -544,7 +544,7 @@
     "definition": "修改, 润色",
     "example_sentence": "",
     "root": "touch- 触摸，触碰，接触，联系",
-    "memory":"re-反复",
+    "memory": "re-反复",
     "key_collocations": []
   },
   {
@@ -554,7 +554,7 @@
     "definition": "碰不着的; 不可触摸的",
     "example_sentence": "",
     "root": "touch- 触摸，触碰，接触，联系",
-    "memory":"un-否定",
+    "memory": "un-否定",
     "key_collocations": []
   },
   {
@@ -564,7 +564,7 @@
     "definition": "比赛, 竞赛; 对手, 敌手; (一根)火柴",
     "example_sentence": "",
     "root": "touch- 触摸，触碰，接触，联系",
-    "memory":"man + touch = 比赛。woman + touch = watch。古希腊，男人参加比赛，女人看比赛",
+    "memory": "man + touch = 比赛。woman + touch = watch。古希腊，男人参加比赛，女人看比赛",
     "synonym": [
       {
         "collocation": "enemy",
@@ -638,11 +638,13 @@
     "example_sentence": "",
     "root": "tact-触摸，触碰，接触，机敏，机智",
     "memory": "ic/ics-...学，一种手法之学，表示战术",
-    "synonym":[{
-       "collocation": "strategy",
+    "synonym": [
+      {
+        "collocation": "strategy",
         "definition": "战术，战略",
         "memory": "street+enemy 对付敌人的道，就是战术"
-    }],
+      }
+    ],
     "key_collocations": []
   },
   {
@@ -667,7 +669,7 @@
       {
         "collocation": "contiguous",
         "definition": "接近的，比邻的，临近的",
-        "memory":"contig=contact"
+        "memory": "contig=contact"
       }
     ],
     "key_collocations": [
@@ -688,7 +690,7 @@
     "definition": "加速, 增速; 促进, 加快",
     "example_sentence": "Supercomputers will dramatically accelerate progress in all areas of life.",
     "root": "celer-快速，迅速",
-    "memory":"ac 表加强语气；ate是动词后缀",
+    "memory": "ac 表加强语气；ate是动词后缀",
     "key_collocations": [
       {
         "collocation": "accelerate the speed",
@@ -707,7 +709,7 @@
     "definition": "成长，生长；增长，发展；肿瘤，赘生物；生长物，产物；种植，栽培",
     "example_sentence": "",
     "root": "",
-    "memory":"th是名词后缀。moon是月亮，mooth是月份",
+    "memory": "th是名词后缀。moon是月亮，mooth是月份",
     "key_collocations": []
   },
   {
@@ -717,7 +719,7 @@
     "definition": "加速; 促进; 加速度",
     "example_sentence": "",
     "root": "celer-快速，迅速",
-    "memory":"ac 表加强语气；tion是动词后缀",
+    "memory": "ac 表加强语气；tion是动词后缀",
     "key_collocations": []
   },
   {
@@ -759,7 +761,7 @@
     "definition": "庆祝；举行宗教仪式",
     "example_sentence": "",
     "root": "celer-快速，迅速",
-    "memory":"cele=celer; br=bring 带来; ate=动词后缀",
+    "memory": "cele=celer; br=bring 带来; ate=动词后缀",
     "key_collocations": []
   },
   {
@@ -769,7 +771,7 @@
     "definition": "名人；名声；名流",
     "example_sentence": "",
     "root": "celer-快速，迅速",
-    "memory":"ty是名词后缀",
+    "memory": "ty是名词后缀",
     "synonym": [
       {
         "collocation": "reputation",
@@ -785,7 +787,7 @@
     "definition": "超过；擅长（在某方面）胜过别人",
     "example_sentence": "",
     "root": "celer-快速，迅速",
-    "memory":"ex=向外；cel=快",
+    "memory": "ex=向外；cel=快",
     "key_collocations": []
   },
   {
@@ -820,7 +822,7 @@
     "definition": "运作，实施；运转，操作；手术；（有组织的）活动，行动；军事行动；企业，公司；业务，经营 ；（数学）运算",
     "example_sentence": "",
     "root": "",
-    "memory":"ope=open",
+    "memory": "ope=open",
     "key_collocations": []
   },
   {
@@ -830,7 +832,7 @@
     "definition": "建筑设计，建筑风格；建筑学；结构；计算机的体系结构，架构",
     "example_sentence": "",
     "root": "",
-    "memory":"arch=拱门，英国的建站大多都会有拱门",
+    "memory": "arch=拱门，英国的建站大多都会有拱门",
     "key_collocations": []
   },
   {
@@ -840,7 +842,7 @@
     "definition": "日用品，商品",
     "example_sentence": "In 1973 commodity prices jumped by 70%, and in 1979 by almost 30%.",
     "root": "mode",
-    "memory":"com=共同；mod=mode 模式，方法；ity=名词后缀",
+    "memory": "com=共同；mod=mode 模式，方法；ity=名词后缀",
     "key_collocations": [
       {
         "collocation": "commodity economy",
@@ -881,7 +883,7 @@
     "definition": "现代的；时髦的，最新的",
     "example_sentence": "",
     "root": "mode",
-    "memory":"结尾的n=new",
+    "memory": "结尾的n=new",
     "key_collocations": [
       {
         "collocation": "modern society",
@@ -936,7 +938,7 @@
     "definition": "政治家，政客（politician 复数形式）",
     "example_sentence": "",
     "root": "",
-    "memory":"poli=police 警察；tic=形容词；ans=人",
+    "memory": "poli=police 警察；tic=形容词；ans=人",
     "key_collocations": []
   },
   {
@@ -955,7 +957,7 @@
     "definition": "中等的,适度的;有节制的,温和的,稳健的",
     "example_sentence": "",
     "root": "mode",
-    "memory":"mod=mode; er=比较级；做事讲究方式方法，表示适度的，有节制的",
+    "memory": "mod=mode; er=比较级；做事讲究方式方法，表示适度的，有节制的",
     "key_collocations": [
       {
         "collocation": "a moderate speed",
@@ -1001,7 +1003,7 @@
     "definition": "修改,更改;缓和,减轻",
     "example_sentence": "",
     "root": "mode",
-    "synonym":[
+    "synonym": [
       {
         "collocation": "adjust",
         "definition": "调整，缓和，调节（声音）",
@@ -2203,5 +2205,1701 @@
     "pronunciation": "[ˈsɪəriəl]",
     "part_of_speech": "a.",
     "definition": "连续的，连载的"
+  },
+  {
+    "word": "allege",
+    "pronunciation": "[əˈledʒ]",
+    "part_of_speech": "vt.",
+    "definition": "断言，宣称；指控",
+    "example_sentence": "A newspaper article alleged that the cabinet was going to resign.",
+    "root": "leg- (表示“说,讲”)"
+  },
+  {
+    "word": "legend",
+    "pronunciation": "[ˈledʒend]",
+    "part_of_speech": "n.",
+    "definition": "传说；传奇故事；传奇人物",
+    "key_collocations": [
+      {
+        "collocation": "a popular legend",
+        "definition": "民间传说"
+      },
+      {
+        "collocation": "the hero of Greek legend",
+        "definition": "希腊传说中的英雄"
+      }
+    ]
+  },
+  {
+    "word": "legendary",
+    "pronunciation": "[ˈledʒendri]",
+    "part_of_speech": "adj.",
+    "definition": "传说的；传奇的",
+    "example_sentence": "The hero of Greek legend is legendary."
+  },
+  {
+    "word": "college",
+    "pronunciation": "[ˈkɒldʒ]",
+    "part_of_speech": "n.",
+    "definition": "学院，大学；专科学校"
+  },
+  {
+    "word": "academy",
+    "pronunciation": "[əˈkædəmi]",
+    "part_of_speech": "n.",
+    "definition": "专科院校；学院；学会，研究院"
+  },
+  {
+    "word": "university",
+    "pronunciation": "[ˌjuːnɪˈvɜːrsəti]",
+    "part_of_speech": "n.",
+    "definition": "综合性大学"
+  },
+  {
+    "word": "legible",
+    "pronunciation": "[ˈledʒɪbl]",
+    "part_of_speech": "adj.",
+    "definition": "可读的，易读的；（字迹）清楚的"
+  },
+  {
+    "word": "illegible",
+    "pronunciation": "[ɪˈledʒɪbl]",
+    "part_of_speech": "adj.",
+    "definition": "难读的；难以辨认的；（字迹）模糊的"
+  },
+  {
+    "word": "lecture",
+    "pronunciation": "'lektʃə",
+    "part_of_speech": "n./v.",
+    "definition": "授课，讲课；演讲",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": []
+  },
+  {
+    "word": "dialect",
+    "pronunciation": "'daɪəlekt",
+    "part_of_speech": "n.",
+    "definition": "方言",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": []
+  },
+  {
+    "word": "dialog",
+    "pronunciation": "'daɪəlɒɡ",
+    "part_of_speech": "n.",
+    "definition": "对话，交谈；（戏剧）对白",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": []
+  },
+  {
+    "word": "log",
+    "pronunciation": "[lɒɡ, lɔːɡ]",
+    "part_of_speech": "n./v.",
+    "definition": "原木，圆木；航海日志；采伐；把…载入航海日志",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": [
+      {
+        "collocation": "chop logs for the fire",
+        "definition": "为生火而劈柴"
+      },
+      {
+        "collocation": "log tree",
+        "definition": "伐树"
+      },
+      {
+        "collocation": "log up",
+        "definition": "把…记入航海（或飞行）日志"
+      }
+    ]
+  },
+  {
+    "word": "logic",
+    "pronunciation": "'lɒdʒɪk",
+    "part_of_speech": "n.",
+    "definition": "逻辑；逻辑学；推理（法）",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": [
+      {
+        "collocation": "logical argument",
+        "definition": "符合逻辑的论点/观点"
+      }
+    ]
+  },
+  {
+    "word": "apology",
+    "pronunciation": "ə'pɒlədʒi",
+    "part_of_speech": "n.",
+    "definition": "道歉，认错，谢罪",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": []
+  },
+  {
+    "word": "apo",
+    "pronunciation": "",
+    "part_of_speech": "",
+    "definition": "由 'ap-'（加强）和 'no-'（否定）组成",
+    "example_sentence": "",
+    "root": "ap-, no-"
+  },
+  {
+    "word": "apologize",
+    "pronunciation": "[əˈpɒlədʒaɪz]",
+    "part_of_speech": "vi.",
+    "definition": "道歉，认错，谢罪",
+    "example_sentence": "",
+    "root": ""
+  },
+  {
+    "word": "logo",
+    "pronunciation": "[ˈləʊɡəʊ]",
+    "part_of_speech": "n.",
+    "definition": "（公司的）标志，商标",
+    "example_sentence": "",
+    "root": ""
+  },
+  {
+    "word": "eloquent",
+    "pronunciation": "[ˈeləkwənt]",
+    "part_of_speech": "a.",
+    "definition": "善辩的，口才流利的；雄辩的，有说服力的",
+    "example_sentence": "",
+    "root": ""
+  },
+  {
+    "word": "catalog",
+    "pronunciation": "[ˈkætəlɒɡ]",
+    "part_of_speech": "n., v.",
+    "definition": "目录，目录册；编目录",
+    "example_sentence": "",
+    "root": ""
+  },
+  {
+    "word": "slogan",
+    "pronunciation": "[ˈsləʊɡən]",
+    "part_of_speech": "n.",
+    "definition": "标语，口号；（简短醒目的）广告语",
+    "example_sentence": "",
+    "root": ""
+  },
+  {
+    "word": "biology",
+    "pronunciation": "[baɪˈɒlədʒi]",
+    "part_of_speech": "n.",
+    "definition": "生物学；（一种生物的）生活规律",
+    "example_sentence": "",
+    "root": ""
+  },
+  {
+    "word": "eloquent appeal",
+    "pronunciation": "",
+    "part_of_speech": "",
+    "definition": "善辩的呼吁",
+    "example_sentence": "",
+    "root": ""
+  },
+  {
+    "word": "eloquence",
+    "pronunciation": "[ˈeləkwəns]",
+    "part_of_speech": "n.",
+    "definition": "雄辩，（流利的）口才；（语言等的）说服力",
+    "example_sentence": "",
+    "root": ""
+  },
+  {
+    "word": "-ology",
+    "pronunciation": "",
+    "part_of_speech": "",
+    "definition": "表示“…之学、学说”",
+    "example_sentence": "",
+    "root": ""
+  },
+  {
+    "word": "biologist",
+    "pronunciation": "[baɪˈɒlədʒɪst]",
+    "part_of_speech": "n.",
+    "definition": "生物学家",
+    "root": "biolog-"
+  },
+  {
+    "word": "biological",
+    "pronunciation": "[,baɪəˈlɒdʒɪkl]",
+    "part_of_speech": "adj.",
+    "definition": "生物的；生物学的",
+    "root": "biolog-"
+  },
+  {
+    "word": "geology",
+    "pronunciation": "[dʒiˈɒlədʒi]",
+    "part_of_speech": "n.",
+    "definition": "地质（学）；（某地区的）地质概况",
+    "root": ""
+  },
+  {
+    "word": "psychologist",
+    "pronunciation": "[saɪˈkɒlədʒɪst]",
+    "part_of_speech": "n.",
+    "definition": "心理学家",
+    "root": "psycholog-"
+  },
+  {
+    "word": "psychological",
+    "pronunciation": "[,saɪkəˈlɒdʒɪkl]",
+    "part_of_speech": "adj.",
+    "definition": "心理学的；心理（上）的，精神的",
+    "root": "psycholog-"
+  },
+  {
+    "word": "psychiatry",
+    "pronunciation": "[saɪˈkaɪətri]",
+    "part_of_speech": "n.",
+    "definition": "精神病学；精神病疗法",
+    "root": ""
+  },
+  {
+    "word": "theology",
+    "pronunciation": "[θiˈɒlədʒi]",
+    "part_of_speech": "n.",
+    "definition": "神学；宗教理论，宗教体系",
+    "root": ""
+  },
+  {
+    "word": "geologist",
+    "pronunciation": "[dʒiˈɒlədʒɪst]",
+    "part_of_speech": "n.",
+    "definition": "地质学家；地质学者",
+    "root": ""
+  },
+  {
+    "word": "geological",
+    "pronunciation": "[dʒiəˈlɒdʒɪkl]",
+    "part_of_speech": "adj.",
+    "definition": "地质学上的；地质的",
+    "root": ""
+  },
+  {
+    "word": "psychology",
+    "pronunciation": "[saɪˈkɒlədʒi]",
+    "part_of_speech": "n.",
+    "definition": "心理学；心理，心理状态",
+    "root": "psycholog-"
+  },
+  {
+    "word": "theologist",
+    "pronunciation": "[θiˈɒlədʒɪst]",
+    "part_of_speech": "n.",
+    "definition": "神学家，神学研究者",
+    "root": ""
+  },
+  {
+    "word": "theological",
+    "pronunciation": "[,θiːəˈlɒdʒɪkl]",
+    "part_of_speech": "adj.",
+    "definition": "神学（上）的",
+    "root": ""
+  },
+  {
+    "word": "technology",
+    "pronunciation": "[tekˈnɒlədʒi]",
+    "part_of_speech": "n.",
+    "definition": "技术学，工艺学",
+    "root": ""
+  },
+  {
+    "word": "ambition",
+    "pronunciation": "[æmˈbɪʃn]",
+    "part_of_speech": "n.",
+    "definition": "雄心, 抱负; 野心",
+    "example_sentence": "Robert left Citigroup in 2005 with ambitions to be a CEO.",
+    "root": "amb-",
+    "key_collocations": [
+      {
+        "collocation": "be full of / be filled with ambition",
+        "definition": "充满雄心"
+      },
+      {
+        "collocation": "lack ambition",
+        "definition": "缺乏雄心"
+      },
+      {
+        "collocation": "achieve/fulfill/realize one's ambition",
+        "definition": "实现某人的雄心"
+      },
+      {
+        "collocation": "be ambitious of doing sth.",
+        "definition": "渴望做某事"
+      }
+    ]
+  },
+  {
+    "word": "technological",
+    "pronunciation": "[ˌteknəˈlɒdʒɪkl]",
+    "part_of_speech": "adj.",
+    "definition": "技术(学)的, 工艺(学)的",
+    "example_sentence": null,
+    "root": null,
+    "key_collocations": []
+  },
+  {
+    "word": "technologist",
+    "pronunciation": "[ˈteknələdʒɪst]",
+    "part_of_speech": "n.",
+    "definition": "技术专家; 科学技术人员",
+    "example_sentence": null,
+    "root": null,
+    "key_collocations": []
+  },
+  {
+    "word": "ambulance",
+    "pronunciation": "[ˈæmbjʊləns]",
+    "part_of_speech": "n.",
+    "definition": "救护车，急救车",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": [
+      {
+        "collocation": "ambulance-cashing",
+        "definition": "救护车相关的行为或现象"
+      }
+    ]
+  },
+  {
+    "word": "ambassador",
+    "pronunciation": "[æmˈbæsədər]",
+    "part_of_speech": "n.",
+    "definition": "大使；特使；派驻国际组织的代表",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": []
+  },
+  {
+    "word": "ambiguous",
+    "pronunciation": "[æmˈbɪɡjuəs]",
+    "part_of_speech": "adj.",
+    "definition": "模棱两可的，含糊不清的；引起歧义的",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": [
+      {
+        "collocation": "an ambiguous attitude",
+        "definition": "模棱两可的态度"
+      },
+      {
+        "collocation": "an ambiguous smile",
+        "definition": "模棱两可的微笑"
+      }
+    ]
+  },
+  {
+    "word": "ambient",
+    "pronunciation": "[ˈæmbiənt]",
+    "part_of_speech": "adj.",
+    "definition": "环绕的，包围着的；周围的",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": []
+  },
+  {
+    "word": "amble",
+    "pronunciation": "[ˈæmbl]",
+    "part_of_speech": "v.",
+    "definition": "溜达，从容漫步；（马）缓行",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": []
+  },
+  {
+    "word": "ambiguity",
+    "pronunciation": "[ˌæmbɪˈɡjuːɪti]",
+    "part_of_speech": "n.",
+    "definition": "歧义，可作两种（或多种）解释；意义不明确；模棱两可的话",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": []
+  },
+  {
+    "word": "unambiguous",
+    "pronunciation": "[ˌʌnæmˈbɪɡjuəs]",
+    "part_of_speech": "adj.",
+    "definition": "不含糊的；明确的，清晰的",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": []
+  },
+  {
+    "word": "mobility",
+    "pronunciation": "[məʊˈbɪləti]",
+    "part_of_speech": "n.",
+    "definition": "流动性; 移动性; 社会流动性",
+    "example_sentence": "",
+    "root": "mob-",
+    "key_collocations": []
+  },
+  {
+    "word": "mobilize",
+    "pronunciation": "[ˈməʊbəlaɪz]",
+    "part_of_speech": "v.",
+    "definition": "动员; 调动; 鼓动",
+    "example_sentence": "",
+    "root": "mob-",
+    "key_collocations": []
+  },
+  {
+    "word": "immobile",
+    "pronunciation": "[ɪˈməʊbaɪl]",
+    "part_of_speech": "adj.",
+    "definition": "不能动的; 静止的, 固定的",
+    "example_sentence": "",
+    "root": "mob-",
+    "key_collocations": []
+  },
+  {
+    "word": "mob",
+    "pronunciation": "[mɒb]",
+    "part_of_speech": "n.",
+    "definition": "暴民, 乌合之众; 犯罪集团",
+    "example_sentence": "",
+    "root": "mob-",
+    "key_collocations": []
+  },
+  {
+    "word": "mobile",
+    "pronunciation": "[ˈməʊbaɪl]",
+    "part_of_speech": "adj. n.",
+    "definition": "可移动的, 活动的; 活动物体; 活动部件",
+    "example_sentence": "",
+    "root": "mob-",
+    "key_collocations": [
+      {
+        "collocation": "China Mobile",
+        "definition": "中国移动，一家中国的电信公司"
+      },
+      {
+        "collocation": "mobile phone",
+        "definition": "手机"
+      },
+      {
+        "collocation": "smartphone",
+        "definition": "智能手机"
+      }
+    ]
+  },
+  {
+    "word": "automobile",
+    "pronunciation": "[ˈɔːtəməbiːl]",
+    "part_of_speech": "n. adj.",
+    "definition": "汽车; 汽车的; 自动推进的",
+    "example_sentence": "",
+    "root": "auto-",
+    "key_collocations": []
+  },
+  {
+    "word": "comb",
+    "pronunciation": "[kəʊm]",
+    "part_of_speech": "n. vt.",
+    "definition": "梳子; 毛刷; 用梳子梳理",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": []
+  },
+  {
+    "word": "move",
+    "pronunciation": "[muːv]",
+    "part_of_speech": "v.",
+    "definition": "移动; 前进",
+    "example_sentence": "",
+    "root": "move-",
+    "key_collocations": []
+  },
+  {
+    "word": "movement",
+    "pronunciation": "[ˈmuːvmənt]",
+    "part_of_speech": "n.",
+    "definition": "运动, 活动; 动作, 姿态; 倾向, 动向",
+    "example_sentence": "",
+    "root": "move-",
+    "key_collocations": []
+  },
+  {
+    "word": "movie",
+    "pronunciation": "[ˈmuːvi]",
+    "part_of_speech": "n.",
+    "definition": "电影, 影片; 电影院; 电影业, 电影界",
+    "example_sentence": "",
+    "root": "move-",
+    "key_collocations": []
+  },
+  {
+    "word": "remove",
+    "pronunciation": "[rɪˈmuːv]",
+    "part_of_speech": "verb",
+    "definition": "移动，搬开；脱掉，去掉；移动；迁移，搬家",
+    "example_sentence": "",
+    "root": "move",
+    "key_collocations": [
+      {
+        "collocation": "the remote future",
+        "definition": "遥远的未来"
+      },
+      {
+        "collocation": "remote control",
+        "definition": "遥控器"
+      }
+    ]
+  },
+  {
+    "word": "permeate",
+    "pronunciation": "[ˈpɜːmieɪt]",
+    "part_of_speech": "verb",
+    "definition": "渗透，渗入，透过；充满，弥漫",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": []
+  },
+  {
+    "word": "pave",
+    "pronunciation": "[peɪv]",
+    "part_of_speech": "verb",
+    "definition": "铺，筑（路等）；铺满，密布",
+    "example_sentence": "",
+    "root": "plain, move",
+    "key_collocations": [
+      {
+        "collocation": "pave the way for",
+        "definition": "为...铺平道路"
+      }
+    ]
+  },
+  {
+    "word": "moment",
+    "pronunciation": "[ˈməʊmənt]",
+    "part_of_speech": "noun",
+    "definition": "瞬间，片刻；重要时刻，紧要关头",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": [
+      {
+        "collocation": "at the moment",
+        "definition": "目前，现在"
+      },
+      {
+        "collocation": "for a moment",
+        "definition": "片刻，一会儿"
+      },
+      {
+        "collocation": "for the moment",
+        "definition": "暂时，暂且"
+      }
+    ]
+  },
+  {
+    "word": "in a moment",
+    "pronunciation": "",
+    "part_of_speech": "phrase",
+    "definition": "立即，马上",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": []
+  },
+  {
+    "word": "movement",
+    "pronunciation": "",
+    "part_of_speech": "noun",
+    "definition": "一般指具体“动作”或政治“运动”",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": []
+  },
+  {
+    "word": "momentary",
+    "pronunciation": "[ˈməʊmənˌteri]",
+    "part_of_speech": "adjective",
+    "definition": "短暂的；瞬间的，刹那的；时时刻刻的",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": []
+  },
+  {
+    "word": "momentous",
+    "pronunciation": "[məʊˈmentəs]",
+    "part_of_speech": "adjective",
+    "definition": "极重要的，重大的",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": []
+  },
+  {
+    "word": "moment",
+    "pronunciation": "[ˈməʊmənt]",
+    "part_of_speech": "noun",
+    "definition": "瞬间，片刻；重要时刻，紧要关头",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": [
+      {
+        "collocation": "a motive for the murder",
+        "definition": "谋杀的动机"
+      }
+    ]
+  },
+  {
+    "word": "momentum",
+    "pronunciation": "[məʊˈmentəm]",
+    "part_of_speech": "noun",
+    "definition": "【物】动量，冲量",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": [
+      {
+        "collocation": "gain / lost momentum",
+        "definition": "增加/丧失动力"
+      }
+    ]
+  },
+  {
+    "word": "motive",
+    "pronunciation": "[ˈməʊtɪv]",
+    "part_of_speech": "adjective",
+    "definition": "起动的，推动的",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": []
+  },
+  {
+    "word": "motivate",
+    "pronunciation": "[ˈməʊtɪveɪt]",
+    "part_of_speech": "verb",
+    "definition": "成为…的动机，给…以动机；激励，刺激",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": []
+  },
+  {
+    "word": "motor",
+    "pronunciation": "[ˈməʊtə]",
+    "part_of_speech": "noun",
+    "definition": "发动机，马达；机动车，汽车",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": []
+  },
+  {
+    "word": "emotion",
+    "pronunciation": "[ɪˈməʊʃən]",
+    "part_of_speech": "noun",
+    "definition": "感情，情感；情绪",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": []
+  },
+  {
+    "word": "promotion",
+    "pronunciation": "[prəˈməʊʃn]",
+    "part_of_speech": "noun",
+    "definition": "促进，提升；提拔，晋升；促销（活动）",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": [
+      {
+        "collocation": "be prompt in doing sth. / to do sth.",
+        "definition": "迅速地做某事"
+      },
+      {
+        "collocation": "with emotion",
+        "definition": "激动地"
+      }
+    ]
+  },
+  {
+    "word": "promotional",
+    "pronunciation": "[prəˈməʊʃənl]",
+    "part_of_speech": "adjective",
+    "definition": "增进的；奖励的；晋升的；促销的",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": []
+  },
+  {
+    "word": "prompt",
+    "pronunciation": "[prɒmpt]",
+    "part_of_speech": "verb, adjective",
+    "definition": "促进，促使；激起（a.）敏捷的，迅速的",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": [
+      {
+        "collocation": "be prompt in doing sth. / to do sth.",
+        "definition": "迅速地做某事"
+      }
+    ]
+  },
+  {
+    "word": "emotional",
+    "pronunciation": "[ɪˈməʊʃənl]",
+    "part_of_speech": "adjective",
+    "definition": "感情（上）的，情绪的；易动情的",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": [
+      {
+        "collocation": "with emotion",
+        "definition": "激动地"
+      }
+    ]
+  },
+  {
+    "word": "locomotive",
+    "pronunciation": "[ˌləʊkəˈməʊtɪv]",
+    "part_of_speech": "noun",
+    "definition": "机车；火车头",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": []
+  },
+  {
+    "word": "promote",
+    "pronunciation": "[prəˈməʊt]",
+    "part_of_speech": "verb",
+    "definition": "促进，提升；晋升",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": [
+      {
+        "collocation": "promote understanding",
+        "definition": "促进理解"
+      }
+    ]
+  },
+  {
+    "word": "amount",
+    "pronunciation": "[əˈmaʊnt]",
+    "part_of_speech": "vi. & n.",
+    "definition": "合计，共计；总数，总额；数量",
+    "example_sentence": "Their methods do not attempt to estimate the actual biomass (the amount of living biological matter) of fish species in particular parts of the ocean, but rather changes in that biomass over time.",
+    "root": "",
+    "key_collocations": [
+      {
+        "collocation": "an amount of",
+        "definition": "表示一定数量的某物"
+      },
+      {
+        "collocation": "amount to",
+        "definition": "总计达到"
+      },
+      {
+        "collocation": "a high amount",
+        "definition": "大量的"
+      }
+    ]
+  },
+  {
+    "word": "mount",
+    "pronunciation": "[maʊnt]",
+    "part_of_speech": "vt. & vi.",
+    "definition": "登上，爬上；增长，上升",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": [
+      {
+        "collocation": "mount the steps",
+        "definition": "登上台阶"
+      }
+    ]
+  },
+  {
+    "word": "mountain",
+    "pronunciation": "[ˈmaʊntən]",
+    "part_of_speech": "n.",
+    "definition": "山；山脉",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": []
+  },
+  {
+    "word": "mountainous",
+    "pronunciation": "[ˈmaʊntənəs]",
+    "part_of_speech": "a.",
+    "definition": "多山的；像山一样巨大的",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": []
+  },
+  {
+    "word": "diamond",
+    "pronunciation": "[ˈdaɪəmənd]",
+    "part_of_speech": "n.",
+    "definition": "金刚石，钻石；菱形",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": []
+  },
+  {
+    "word": "mine",
+    "pronunciation": "[maɪn]",
+    "part_of_speech": "n.",
+    "definition": "矿，矿山；地雷",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": []
+  },
+  {
+    "word": "miner",
+    "pronunciation": "[ˈmaɪnə]",
+    "part_of_speech": "n.",
+    "definition": "矿工",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": []
+  },
+  {
+    "word": "mineral",
+    "pronunciation": "[ˈmɪnərəl]",
+    "part_of_speech": "n. & a.",
+    "definition": "矿物；矿物的",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": []
+  },
+  {
+    "word": "undermine",
+    "pronunciation": "[,ʌndə'main]",
+    "part_of_speech": "v.",
+    "definition": "暗中破坏；侵蚀…的基础",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": []
+  },
+  {
+    "word": "metal",
+    "pronunciation": "['metl]",
+    "part_of_speech": "n.",
+    "definition": "金属，金属制品",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": []
+  },
+  {
+    "word": "mute",
+    "pronunciation": "[mju:t]",
+    "part_of_speech": "adj., v.",
+    "definition": "哑的，缄默的 (adj.); 减弱…的声音 (v.)",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": []
+  },
+  {
+    "word": "mutter",
+    "pronunciation": "['mætə]",
+    "part_of_speech": "v.",
+    "definition": "低声嘀咕，嘟囔；抱怨",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": []
+  },
+  {
+    "word": "metallic",
+    "pronunciation": "[mɪ'tælɪk]",
+    "part_of_speech": "a.",
+    "definition": "金属的；含金属的",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": []
+  },
+  {
+    "word": "medal",
+    "pronunciation": "['medl]",
+    "part_of_speech": "n.",
+    "definition": "奖章，勋章，纪念章",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": [
+      {
+        "collocation": "gold medal",
+        "definition": "金牌"
+      }
+    ]
+  },
+  {
+    "word": "badge",
+    "pronunciation": "",
+    "part_of_speech": "n.",
+    "definition": "徽章",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": []
+  },
+  {
+    "word": "medalist",
+    "pronunciation": "['medəlɪst]",
+    "part_of_speech": "a.",
+    "definition": "奖牌获得者",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": []
+  },
+  {
+    "word": "mouth",
+    "pronunciation": "[maʊθ]",
+    "part_of_speech": "n.",
+    "definition": "（人、动物的）口，嘴",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": []
+  },
+  {
+    "word": "eat",
+    "pronunciation": "[i:t]",
+    "part_of_speech": "vt., vi.",
+    "definition": "吃；喝 (vt.); 吃，进食；用膳 (vi.)",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": []
+  },
+  {
+    "word": "mouthful",
+    "pronunciation": "['maʊθfʊl]",
+    "part_of_speech": "n.",
+    "definition": "满口；一口的量",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": []
+  },
+  {
+    "word": "edible",
+    "pronunciation": "['edibl]",
+    "part_of_speech": "adj.",
+    "definition": "可以吃的，能够食用的",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": [
+      {
+        "collocation": "edible oil",
+        "definition": "食用油"
+      }
+    ]
+  },
+  {
+    "word": "myth",
+    "pronunciation": "[miθ]",
+    "part_of_speech": "n.",
+    "definition": "神话，传说；虚构的人（或事物）",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": [
+      {
+        "collocation": "the Greek myth",
+        "definition": "希腊神话"
+      }
+    ]
+  },
+  {
+    "word": "cate",
+    "pronunciation": "[keit]",
+    "part_of_speech": "n. (常复数)",
+    "definition": "佳肴，美食（古）",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": []
+  },
+  {
+    "word": "cater",
+    "pronunciation": "[ˈkeɪtə]",
+    "part_of_speech": "v.",
+    "definition": "提供饮食；承办宴席；满足需要（或欲望）；迎合，投合",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": [
+      {
+        "collocation": "cater for",
+        "definition": "满足需求；迎合"
+      }
+    ]
+  },
+  {
+    "word": "mouse",
+    "pronunciation": "[maʊs]",
+    "part_of_speech": "n.",
+    "definition": "老鼠（啮齿类动物）；【电脑】鼠标",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": []
+  },
+  {
+    "word": "smother",
+    "pronunciation": "[ˈsmʌðə]",
+    "part_of_speech": "v.",
+    "definition": "使窒息，使透不过气来；把…闷死",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": []
+  },
+  {
+    "word": "smother",
+    "pronunciation": "[ˈsmʌðə]",
+    "part_of_speech": "n.",
+    "definition": "令人窒息的浓烟（或雾气、尘埃等）",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": []
+  },
+  {
+    "word": "mythical",
+    "pronunciation": "[ˈmɪθɪkl]",
+    "part_of_speech": "a.",
+    "definition": "神话的；神话般的；虚构的，杜撰的",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": []
+  },
+  {
+    "word": "mystery",
+    "pronunciation": "[ˈmɪstəri]",
+    "part_of_speech": "n.",
+    "definition": "神秘；神秘的事物；神秘小说，侦探小说",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": [
+      {
+        "collocation": "stories full of mystery",
+        "definition": "充满神秘的故事"
+      }
+    ]
+  },
+  {
+    "word": "mysterious",
+    "pronunciation": "[mɪˈstɪəriəs]",
+    "part_of_speech": "a.",
+    "definition": "神秘的，诡秘的；不可思议的",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": []
+  },
+  {
+    "word": "mystify",
+    "pronunciation": "[ˈmɪstɪfaɪ]",
+    "part_of_speech": "vt.",
+    "definition": "使神秘化；使困惑；使大为惊奇",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": []
+  },
+  {
+    "word": "amaze",
+    "pronunciation": "[əˈmeɪz]",
+    "part_of_speech": "vt.",
+    "definition": "使大为惊奇，使惊愕",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": [
+      {
+        "collocation": "be amazed at/by",
+        "definition": "对…感到惊奇"
+      }
+    ]
+  },
+  {
+    "word": "amazement",
+    "pronunciation": "[əˈmeɪzmənt]",
+    "part_of_speech": "n.",
+    "definition": "惊奇，诧异",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": []
+  },
+  {
+    "word": "talent",
+    "pronunciation": "[ˈtælənt]",
+    "part_of_speech": "n.",
+    "definition": "天才；人才；才能",
+    "example_sentence": "Their work makes a rather startling assertion: the trait we commonly call talent is highly overrated.",
+    "root": null,
+    "key_collocations": [
+      {
+        "collocation": "talent scout",
+        "definition": "人才发掘者"
+      }
+    ]
+  },
+  {
+    "word": "talented",
+    "pronunciation": "[ˈtæləntɪd]",
+    "part_of_speech": "a.",
+    "definition": "有才能的，有才干的；天资高的",
+    "example_sentence": null,
+    "root": "talent",
+    "key_collocations": []
+  },
+  {
+    "word": "tower",
+    "pronunciation": "[ˈtaʊə]",
+    "part_of_speech": "n.",
+    "definition": "塔",
+    "example_sentence": null,
+    "root": null,
+    "key_collocations": []
+  },
+  {
+    "word": "town",
+    "pronunciation": "[taʊn]",
+    "part_of_speech": "n.",
+    "definition": "镇，市镇，城镇",
+    "example_sentence": null,
+    "root": null,
+    "key_collocations": []
+  },
+  {
+    "word": "attic",
+    "pronunciation": "[ˈætɪk]",
+    "part_of_speech": "n.",
+    "definition": "顶楼，阁楼；顶楼房间",
+    "example_sentence": null,
+    "root": null,
+    "key_collocations": []
+  },
+  {
+    "word": "attitude",
+    "pronunciation": "[ˈætɪtjuːd]",
+    "part_of_speech": "n.",
+    "definition": "态度, 意见, 看法",
+    "root": "t-tai",
+    "key_collocations": [
+      {
+        "collocation": "t-tai 态度",
+        "definition": "表示态度的词根"
+      }
+    ]
+  },
+  {
+    "word": "aptitude",
+    "pronunciation": "[ˈæptɪtjuːd]",
+    "part_of_speech": "n.",
+    "definition": "天资, 才能",
+    "root": "p-ping",
+    "key_collocations": [
+      {
+        "collocation": "p-ping 凭借-才能",
+        "definition": "表示凭借才能的词根"
+      }
+    ]
+  },
+  {
+    "word": "altar",
+    "pronunciation": "[ˈɔːltə]",
+    "part_of_speech": "n.",
+    "definition": "(教堂内的)圣坛, 祭坛",
+    "root": "alt-高"
+  },
+  {
+    "word": "altimeter",
+    "pronunciation": "[ˈæltɪmiːtə]",
+    "part_of_speech": "n.",
+    "definition": "测高仪, 高度计",
+    "root": "alt-高"
+  },
+  {
+    "word": "exalt",
+    "pronunciation": "[ɪɡˈzɔːlt]",
+    "part_of_speech": "vt.",
+    "definition": "使升高, 高举; 提升, 提拔; 颂扬, 赞扬; 使喜悦",
+    "root": "alt-高"
+  },
+  {
+    "word": "altitude",
+    "pronunciation": "[ˈæltɪtjuːd]",
+    "part_of_speech": "n.",
+    "definition": "高度, 海拔",
+    "root": "-itude",
+    "key_collocations": [
+      {
+        "collocation": "抽象名词后缀“-itude”",
+        "definition": "对应汉字中的“度”"
+      }
+    ]
+  },
+  {
+    "word": "longitude",
+    "pronunciation": "[ˈlɒŋɡɪtjuːd]",
+    "part_of_speech": "n.",
+    "definition": "经度",
+    "root": "-itude",
+    "key_collocations": [
+      {
+        "collocation": "抽象名词后缀“-itude”",
+        "definition": "对应汉字中的“度”"
+      }
+    ]
+  },
+  {
+    "word": "latitude",
+    "pronunciation": "[ˈlætɪtjuːd]",
+    "part_of_speech": "n.",
+    "definition": "纬度",
+    "root": "-itude",
+    "key_collocations": [
+      {
+        "collocation": "抽象名词后缀“-itude”",
+        "definition": "对应汉字中的“度”"
+      }
+    ]
+  },
+  {
+    "word": "alb-",
+    "pronunciation": "",
+    "part_of_speech": "词根",
+    "definition": "表示“白色”"
+  },
+  {
+    "word": "alter",
+    "pronunciation": "[ˈɔːltə(r)]",
+    "part_of_speech": "v.",
+    "definition": "改变，变更",
+    "example_sentence": "They may alter the structure of education.",
+    "root": "",
+    "key_collocations": [
+      {
+        "collocation": "alter clothes",
+        "definition": "改变衣服"
+      },
+      {
+        "collocation": "alter one's will",
+        "definition": "改变某人的意愿"
+      }
+    ]
+  },
+  {
+    "word": "altar",
+    "pronunciation": "[ˈɔːltə(r)]",
+    "part_of_speech": "n.",
+    "definition": "(教堂内的)圣坛，祭坛",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": []
+  },
+  {
+    "word": "alteration",
+    "pronunciation": "[ˌɔːltəˈreɪʃn]",
+    "part_of_speech": "n.",
+    "definition": "改变，变更；修改，变样",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": []
+  },
+  {
+    "word": "alternate",
+    "pronunciation": "[ˈɔːltəneɪt]",
+    "part_of_speech": "v. / a.",
+    "definition": "v. 交替，轮流；a. (两人)交替的，轮流的",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": [
+      {
+        "collocation": "alternate with/between A and B",
+        "definition": "在A和B之间交替"
+      },
+      {
+        "collocation": "Night and day alternate.",
+        "definition": "昼夜交替"
+      }
+    ]
+  },
+  {
+    "word": "return",
+    "pronunciation": "[ri'te:n]",
+    "part_of_speech": "vi./n.",
+    "definition": "回来，返回",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": []
+  },
+  {
+    "word": "alternative",
+    "pronunciation": "[ɔ:l'te:nətiv]",
+    "part_of_speech": "adj.",
+    "definition": "二选一的，非此即彼的",
+    "example_sentence": "I'll have no alternative but to go with you.",
+    "root": "",
+    "key_collocations": [
+      {
+        "collocation": "have no alternative but to do",
+        "definition": "只得，不得不；别无选择，唯一的办法是"
+      }
+    ]
+  },
+  {
+    "word": "alien",
+    "pronunciation": "[ˈeɪliən]",
+    "part_of_speech": "n.",
+    "definition": "外国人，外侨；外星人",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": [
+      {
+        "collocation": "alien culture",
+        "definition": "外来文化"
+      }
+    ]
+  },
+  {
+    "word": "tun",
+    "pronunciation": "[tʌn]",
+    "part_of_speech": "n.",
+    "definition": "大酒桶",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": []
+  },
+  {
+    "word": "tunnel",
+    "pronunciation": "[ˈtʌnl]",
+    "part_of_speech": "n.",
+    "definition": "隧道，山洞",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": []
+  },
+  {
+    "word": "tropic",
+    "pronunciation": "[ˈtrɒpɪk]",
+    "part_of_speech": "n.",
+    "definition": "回归线；热带",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": []
+  },
+  {
+    "word": "alienate",
+    "pronunciation": "[ˈeɪliəneɪt]",
+    "part_of_speech": "vt.",
+    "definition": "使疏远；离间；使转移，使转向",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": [
+      {
+        "collocation": "alienate sb.'s affections",
+        "definition": "使某人的感情疏远"
+      }
+    ]
+  },
+  {
+    "word": "alienation",
+    "pronunciation": "[ˌeɪliəˈneɪʃn]",
+    "part_of_speech": "n.",
+    "definition": "疏远；离间；让渡；转让",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": []
+  },
+  {
+    "word": "turn",
+    "pronunciation": "[tɜːn]",
+    "part_of_speech": "v./n.",
+    "definition": "转动，旋转；拧动；翻动，翻转",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": []
+  },
+  {
+    "word": "torture",
+    "pronunciation": "[ˈtɔːrtʃər]",
+    "part_of_speech": "n.",
+    "definition": "拷问、拷打、折磨",
+    "root": "torn-, tour-",
+    "key_collocations": [
+      {
+        "collocation": "torture methods",
+        "definition": "拷问方法"
+      },
+      {
+        "collocation": "torture techniques",
+        "definition": "拷打技巧"
+      }
+    ]
+  },
+  {
+    "word": "tropical",
+    "pronunciation": "[ˈtrɒpɪkl]",
+    "part_of_speech": "a.",
+    "definition": "热带的",
+    "example_sentence": "The tropical climate is very humid."
+  },
+  {
+    "word": "contrive",
+    "pronunciation": "[kənˈtraɪv]",
+    "part_of_speech": "vt.",
+    "definition": "设法做到；谋划，策划；设计，想出",
+    "example_sentence": "He contrived a plan to escape."
+  },
+  {
+    "word": "torrent",
+    "pronunciation": "[ˈtɔːrənt]",
+    "part_of_speech": "n.",
+    "definition": "激流,洪流；（话语、情感等的)爆发",
+    "example_sentence": "The torrent of water rushed down the mountain."
+  },
+  {
+    "word": "distort",
+    "pronunciation": "[dɪˈstɔːrt]",
+    "part_of_speech": "v.",
+    "definition": "扭曲；曲解；弄歪(嘴脸等)",
+    "root": "dis-",
+    "key_collocations": [
+      {
+        "collocation": "distort facts",
+        "definition": "歪曲事实"
+      },
+      {
+        "collocation": "distort reality",
+        "definition": "扭曲现实"
+      }
+    ]
+  },
+  {
+    "word": "distortion",
+    "pronunciation": "[dɪˈstɔːʃən]",
+    "part_of_speech": "n.",
+    "definition": "扭曲，变形；歪曲，失真",
+    "example_sentence": "The distortion of the image was noticeable."
+  },
+  {
+    "word": "torment",
+    "pronunciation": "[ˈtɔːrmənt]",
+    "part_of_speech": "n.",
+    "definition": "折磨;令人痛苦的事物",
+    "example_sentence": "The torment of his past haunted him."
+  },
+  {
+    "word": "retort",
+    "pronunciation": "[rɪˈtɔːrt]",
+    "part_of_speech": "n./v.",
+    "definition": "反驳,回嘴",
+    "example_sentence": "He retorted with a sharp reply."
+  },
+  {
+    "word": "torture",
+    "pronunciation": "[ˈtɔːrtʃər]",
+    "part_of_speech": "v.",
+    "definition": "拷问，拷打（n.)拷问，折磨",
+    "example_sentence": "The interrogators tortured the prisoner for information."
+  },
+  {
+    "word": "tournament",
+    "pronunciation": "[ˈtʊənəmənt]",
+    "part_of_speech": "n.",
+    "definition": "比赛；锦标赛；联赛",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": []
+  },
+  {
+    "word": "tour",
+    "pronunciation": "[tʊə(r)]",
+    "part_of_speech": "v./n.",
+    "definition": "旅游；游历",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": []
+  },
+  {
+    "word": "tourist",
+    "pronunciation": "[ˈtʊərɪst]",
+    "part_of_speech": "n.",
+    "definition": "旅游者，观光者",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": []
+  },
+  {
+    "word": "tourism",
+    "pronunciation": "[ˈtʊərɪzəm]",
+    "part_of_speech": "n.",
+    "definition": "旅游业；观光业",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": []
+  },
+  {
+    "word": "turbine",
+    "pronunciation": "[ˈtɜ:baɪn]",
+    "part_of_speech": "n.",
+    "definition": "汽轮机，涡轮机",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": []
+  },
+  {
+    "word": "turbulent",
+    "pronunciation": "[ˈtɜ:bjələnt]",
+    "part_of_speech": "adj.",
+    "definition": "骚乱的；动荡的；混乱的",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": [
+      {
+        "collocation": "turbulence",
+        "definition": "动乱，骚乱；（海洋、天气等的）狂暴"
+      },
+      {
+        "collocation": "disturbance",
+        "definition": "扰乱，打扰；骚扰，动乱"
+      }
+    ]
+  },
+  {
+    "word": "disturb",
+    "pronunciation": "[dɪˈstɜ:b]",
+    "part_of_speech": "v.",
+    "definition": "扰乱，妨碍；（使）心神不宁",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": [
+      {
+        "collocation": "disturbance",
+        "definition": "扰乱，打扰；骚扰，动乱"
+      }
+    ]
+  },
+  {
+    "word": "transform",
+    "pronunciation": "[trænsˈfɔːm]",
+    "part_of_speech": "vt.",
+    "definition": "改变，变换；变压；改造",
+    "root": "form",
+    "key_collocations": []
+  },
+  {
+    "word": "transformation",
+    "pronunciation": "ˌtrænzfɔːˈmeɪʃn",
+    "part_of_speech": "n.",
+    "definition": "转变; 改革; 变形",
+    "example_sentence": "",
+    "root": "trans-",
+    "key_collocations": []
+  },
+  {
+    "word": "transformer",
+    "pronunciation": "'trænsfɔːmə(r)",
+    "part_of_speech": "n.",
+    "definition": "变压器; 变形金刚; 转换器",
+    "example_sentence": "",
+    "root": "trans-",
+    "key_collocations": []
+  },
+  {
+    "word": "transfer",
+    "pronunciation": "[trænsˈfɜː]",
+    "part_of_speech": "v./n.",
+    "definition": "转移；转让",
+    "example_sentence": "He transferred the money to another account.",
+    "root": "fer",
+    "key_collocations": [
+      {
+        "collocation": "fortune",
+        "definition": "财产"
+      }
+    ]
+  },
+  {
+    "word": "transport",
+    "pronunciation": "[trænsˈpɔːt]",
+    "part_of_speech": "vt.",
+    "definition": "运送，运输",
+    "root": "",
+    "key_collocations": [
+      {
+        "collocation": "transportation",
+        "definition": "运输，运送；【美】运输工具；运输业；【主美】运费"
+      }
+    ]
+  },
+  {
+    "word": "transplant",
+    "pronunciation": "[trænsˈplɑːnt]",
+    "part_of_speech": "v.",
+    "definition": "移植，移种；（使）移居，迁移",
+    "root": "",
+    "key_collocations": []
+  },
+  {
+    "word": "transaction",
+    "pronunciation": "[trænˈzækʃən]",
+    "part_of_speech": "n.",
+    "definition": "办理，处理；交易；业务",
+    "root": "",
+    "key_collocations": []
+  },
+  {
+    "word": "transient",
+    "pronunciation": "[ˈtrænziənt]",
+    "part_of_speech": "adj.",
+    "definition": "短暂的，转瞬即逝的；临时的，暂住的",
+    "root": "",
+    "key_collocations": []
+  },
+  {
+    "word": "transcribe",
+    "pronunciation": "[trænˈskraɪb]",
+    "part_of_speech": "vt.",
+    "definition": "抄写，誊写",
+    "root": "",
+    "key_collocations": []
+  },
+  {
+    "word": "traitor",
+    "pronunciation": "'treɪtər",
+    "part_of_speech": "n.",
+    "definition": "叛徒; 叛国者, 卖国贼",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": []
+  },
+  {
+    "word": "treason",
+    "pronunciation": "'treɪzən",
+    "part_of_speech": "n.",
+    "definition": "叛国; 谋反",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": []
+  },
+  {
+    "word": "betray",
+    "pronunciation": "bɪˈtreɪ",
+    "part_of_speech": "v.",
+    "definition": "背叛, 出卖; 暴露, 泄漏",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": []
+  },
+  {
+    "word": "trade",
+    "pronunciation": "'treɪd",
+    "part_of_speech": "n. / vi.",
+    "definition": "贸易, 交易, 商业; 做买卖, 进行交易",
+    "example_sentence": "",
+    "root": "tra-",
+    "key_collocations": []
+  },
+  {
+    "word": "tradition",
+    "pronunciation": "trə'dɪʃən",
+    "part_of_speech": "n.",
+    "definition": "传统; 惯例; 传说",
+    "example_sentence": "",
+    "root": "",
+    "key_collocations": []
+  },
+  {
+    "word": "traditional",
+    "pronunciation": "trəˈdɪʃənl",
+    "part_of_speech": "adj.",
+    "definition": "传统的; 惯例的; 口传的, 传说的",
+    "example_sentence": "We celebrate the festival with traditional customs and foods.",
+    "root": "tradition",
+    "key_collocations": []
   }
 ]
